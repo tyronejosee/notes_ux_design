@@ -54,13 +54,13 @@
   **Define Target Users**
   - [Create User Personas](pending/pending.md)
 
-## [Conceptual Design**](pending/)
+## [Conceptual Design](pending/)
 
-### Create Product Backlog**
+### Create Product Backlog
 
 - [Existing Business Model](pending/pending.md)
 
-### Thing to Lookout for**
+### Thing to Lookout for
 
 - [In general, Keep it Short and Simple](pending/pending.md)
 - [Make it Easy to Understand, Easy to Complete](pending/pending.md)
