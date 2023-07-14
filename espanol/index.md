@@ -95,3 +95,81 @@
 - [Simple Flowchart](pending/pending.md)
 - [Event-Driven Process Chain Model (EPC)](pending/pending.md)
 - [Business Process Model and Notation (BPMN)](pending/pending.md)
+
+## [ProtoTyping](pending/)
+
+- [Good Layout Rules](pending/pending.md)
+
+### Wireframing
+
+- [Figma](pending/pending.md)
+- [Adobe XD](pending/pending.md)
+- [Sketch](pending/pending.md)
+- [Balsamiq](pending/pending.md)
+
+## [UX Patterns](pending/)
+
+### When Attention is Fleeting and Scarce
+
+- [Simple Reminders and Planning Prompts](pending/pending.md)
+- [Status Reports](pending/pending.md)
+- [How-to-Tips](pending/pending.md)
+- [Call to Action](pending/pending.md)
+
+### When yo have many opportunities to Influence User
+
+- [Decision-Making Support](pending/pending.md)
+- [Behavior Change Games](pending/pending.md)
+- [Gamification](pending/pending.md)
+- [Planners](pending/pending.md)
+- [Reminders](pending/pending.md)
+- [Social Sharing](pending/pending.md)
+- [Goal Trackers](pending/pending.md)
+- [Tutorials](pending/pending.md)
+
+## [UX Best Practices](pending/)
+
+### Getting User Attention
+
+- [Clear the Page of Distractions](pending/pending.md)
+- [Make it Clear, Where to Act](pending/pending.md)
+- [Tell User What the Action is and Ask for it](pending/pending.md)
+
+### Get a Favorable Conscious Evaluation
+
+- [Prime User-Relevant Associations](pending/pending.md)
+- [Leverage Loss Aversion](pending/pending.md)
+- [Use Peer Comparisons](pending/pending.md)
+- [Use Competition](pending/pending.md)
+- [Avoid Cognitive Overhead](pending/pending.md)
+- [Avoid Choice Overload](pending/pending.md)
+- [Avoid Direct Payments](pending/pending.md)
+
+### Creating Urgency to Act Now
+
+- [Frame Text to Avoid Temporal Myopia](pending/pending.md)
+- [Remind of Prior Commitment to Act](pending/pending.md)
+- [Make Commitment to Friends](pending/pending.md)
+- [Make Reward Scarce](pending/pending.md)
+
+### Getting Positive Intuitive Reaction
+
+- [Make UI Professional and Beautiful](pending/pending.md)
+- [Deploy Social Proof](pending/pending.md)
+- [Deploy Strong Authority on Subject](pending/pending.md)
+- [Be Authentic and Personal](pending/pending.md)
+
+### Make sure Users can Easily do it
+
+- [Elicit Implementation Intentions](pending/pending.md)
+- [Default Everything](pending/pending.md)
+- [Lessen the Burden of Action/Info.](pending/pending.md)
+- [Deploy Peer Comparisons](pending/pending.md)
+
+## [Measuring the Impact](pending/)
+
+### Testing
+
+- [Incremental A/B Testing](pending/pending.md)
+- [Multivariate Testing](pending/pending.md)
+- [Gather Lessons Learned, Prioritize, Integrate](pending/pending.md)
