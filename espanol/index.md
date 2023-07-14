@@ -14,28 +14,28 @@
   - [Behavioral Economics](pending/pending.md)
 
 - **[Behavior Change Strategies](pending/)**
-  - [Classifying Behavior](pending/pending.md)
-    - [BJ Fogg’s Behavior Grid](pending/pending.md)
-  - [Changing User's Behavior](pending/pending.md)
-    - [Support Conscious Action](pending/pending.md)
-      - [Educate and Encourage User](pending/pending.md)
-      - [Help User think about Their Action](pending/pending.md)
-    - [Cheating](pending/pending.md)
-      - [Defaulting](pending/pending.md)
-      - [Make it Incidental](pending/pending.md)
-      - [Automate the Act of Repetition](pending/pending.md)
-    - [Make or Change Habbits](pending/pending.md)
-      - [Nir Eyal’s Hook Model](pending/pending.md)
-      - [Cue Routine Reward Model](pending/pending.md)
-  - [New Behavior - Existing Behavior](pending/pending.md)
-    - [Help User Avoiding the Cue](pending/pending.md)
-    - [Replace the Routine](pending/pending.md)
-    - [Use Consciousness to Interfere](pending/pending.md)
-    - [Mindfulness to Avoid Acting on the Cue](pending/pending.md)
-    - [Crowd Out Old Habit with New Behavior](pending/pending.md)
-  - [Making Users Addicted](pending/pending.md)
+  **Classifying Behavior**
+  - [BJ Fogg’s Behavior Grid](pending/pending.md)
+  **Changing User's Behavior**
+  - [Support Conscious Action](pending/pending.md)
+    - [Educate and Encourage User](pending/pending.md)
+    - [Help User think about Their Action](pending/pending.md)
+  - [Cheating](pending/pending.md)
+    - [Defaulting](pending/pending.md)
+    - [Make it Incidental](pending/pending.md)
+    - [Automate the Act of Repetition](pending/pending.md)
+  - [Make or Change Habbits](pending/pending.md)
     - [Nir Eyal’s Hook Model](pending/pending.md)
     - [Cue Routine Reward Model](pending/pending.md)
+  **New Behavior - Existing Behavior**
+  - [Help User Avoiding the Cue](pending/pending.md)
+  - [Replace the Routine](pending/pending.md)
+  - [Use Consciousness to Interfere](pending/pending.md)
+  - [Mindfulness to Avoid Acting on the Cue](pending/pending.md)
+  - [Crowd Out Old Habit with New Behavior](pending/pending.md)
+  **Making Users Addicted**
+  - [Nir Eyal’s Hook Model](pending/pending.md)
+  - [Cue Routine Reward Model](pending/pending.md)
 
 - **[Understanding the Product](pending/)**
   **Business Model**
