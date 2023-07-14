@@ -36,3 +36,20 @@
   - [Making Users Addicted](pending/pending.md)
     - [Nir Eyal’s Hook Model](pending/pending.md)
     - [Cue Routine Reward Model](pending/pending.md)
+
+- **[Understanding the Product](pending/)**
+  **Business Model**
+  - [Existing Business Model](pending/pending.md)
+    - [Business Model Canvas](pending/pending.md)
+    - [Lean Canvas](pending/pending.md)
+  - [New Business Model](pending/pending.md)
+    - [Business Model Inspirator](pending/pending.md)
+    - [Competitor Analysis](pending/pending.md)
+    - [Five Forces Model](pending/pending.md)
+    - [SWOT Analysis](pending/pending.md)
+  **Clarify Product**
+  - [Target Outcome](pending/pending.md)
+  - [Target Actor](pending/pending.md)
+  - [Target Action](pending/pending.md)
+  **Define Target Users**
+  - [Create User Personas](pending/pending.md)
