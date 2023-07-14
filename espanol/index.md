@@ -54,17 +54,23 @@
   **Define Target Users**
   - [Create User Personas](pending/pending.md)
 
-- [**Conceptual Design**](pending/)
-  **Create Product Backlog**
-  - [Existing Business Model](pending/pending.md)
-  **Thing to Lookout for**
-  - [In general, Keep it Short and Simple](pending/pending.md)
-  - [Make it Easy to Understand, Easy to Complete](pending/pending.md)
-  - [Make Progress Visible to User](pending/pending.md)
-  - [Make Progress Meaningful in order to Reward User](pending/pending.md)
-  - [Make Successful Completion Clearly Visible](pending/pending.md)
-  **Deliverables**
-  - [Customer Experience Map by Mel Edwards](pending/pending.md)
-  - [Simple Flowchart](pending/pending.md)
-  - [Event-Driven Process Chain Model (EPC)](pending/pending.md)
-  - [Business Process Model and Notation (BPMN)](pending/pending.md)
+## [Conceptual Design**](pending/)
+
+### Create Product Backlog**
+
+- [Existing Business Model](pending/pending.md)
+
+### Thing to Lookout for**
+
+- [In general, Keep it Short and Simple](pending/pending.md)
+- [Make it Easy to Understand, Easy to Complete](pending/pending.md)
+- [Make Progress Visible to User](pending/pending.md)
+- [Make Progress Meaningful in order to Reward User](pending/pending.md)
+- [Make Successful Completion Clearly Visible](pending/pending.md)
+
+### Deliverables
+
+- [Customer Experience Map by Mel Edwards](pending/pending.md)
+- [Simple Flowchart](pending/pending.md)
+- [Event-Driven Process Chain Model (EPC)](pending/pending.md)
+- [Business Process Model and Notation (BPMN)](pending/pending.md)
