@@ -1,27 +1,21 @@
 # Roadmap: UX Design
 
-[![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tu-usuario/tu-repositorio)
+[![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Este repositorio tiene como objetivo proporcionar documentación de diversas fuentes en inglés, junto con recursos gráficos y traducciones al español, para facilitar el acceso a la información para las personas hispanohablantes. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite.
+## Objetivo
+
+Este repositorio tiene como objetivo proporcionar documentación de diversas fuentes, agregando recursos gráficos y traducciones al español, para facilitar el acceso para las personas hispanohablantes. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite. Recuerda que el conocimiento que no es compartido muere, así que si encuentras útil este repositorio, te invitamos a contribuir y ayudar a ampliar su contenido.
 
 ## Contenido
 
 - [Roadmap: UX Design](#roadmap-ux-design)
+  - [Objetivo](#objetivo)
   - [Contenido](#contenido)
-  - [Recursos disponibles](#recursos-disponibles)
   - [Diseño de Experiencia de Usuario (UX)](#diseño-de-experiencia-de-usuario-ux)
-  - [Interacción con el repositorio](#interacción-con-el-repositorio)
+  - [Repositorio](#repositorio)
   - [Contribuciones](#contribuciones)
   - [Licencia](#licencia)
-
-## Recursos disponibles
-
-En este repositorio, encontrarás los siguientes recursos:
-
-- Documentación técnica y tutoriales en inglés.
-- Recursos gráficos, como imágenes y diagramas.
-- Traducciones al español de la documentación original.
 
 ## Diseño de Experiencia de Usuario (UX)
 
@@ -32,7 +26,7 @@ Se ha prestado especial atención al diseño de la experiencia de usuario en est
 - Se han utilizado etiquetas y categorías para clasificar los recursos y facilitar la búsqueda.
 - Se han creado enlaces a recursos adicionales relevantes, tanto dentro como fuera del repositorio.
 
-## Interacción con el repositorio
+## Repositorio
 
 Aquí hay algunas formas de interactuar con este repositorio:
 
