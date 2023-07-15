@@ -1,21 +1,21 @@
 # Index
 
-## [Understanding Human Decision Making](pending/)
+## [Understanding Human Decision Making](understanding_human_decision_making/understanding_human_decision_making.md)
 
 ### Frameworks
 
-- [BJ Fogg’s Behavior Model](pending/pending.md)
-- [Stephen Wendell’s CREATE Action Funnel](pending/pending.md)
-- [Spectrum of Thinking Interventions](pending/pending.md)
-- [Dual Process Theory](pending/pending.md)
+- [BJ Fogg’s Behavior Model](understanding_human_decision_making/bj_fogg_s_behavior_model.md)
+- [Stephen Wendell’s CREATE Action Funnel](understanding_human_decision_making/stephen_wendell_s_create_action_funnel.md)
+- [Spectrum of Thinking Interventions](understanding_human_decision_making/spectrum_of_thinking_interventions.md)
+- [Dual Process Theory](understanding_human_decision_making/dual_process_theory.md)
 
 ### Buzzwords to Lookout for
 
-- [Nudge Theory](pending/pending.md)
-- [Persuasive Technology](pending/pending.md)
-- [Behavior Design](pending/pending.md)
-- [Behavioral Science](pending/pending.md)
-- [Behavioral Economics](pending/pending.md)
+- [Nudge Theory](understanding_human_decision_making/nudge_theory.md)
+- [Persuasive Technology](understanding_human_decision_making/persuasive_technology.md)
+- [Behavior Design](understanding_human_decision_making/behavior_design.md)
+- [Behavioral Science](understanding_human_decision_making/behavioral_science.md)
+- [Behavioral Economics](understanding_human_decision_making/behavioral_economics.md)
 
 ## [Behavior Change Strategies](pending/)
 

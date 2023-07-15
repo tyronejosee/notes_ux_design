@@ -10,7 +10,7 @@ El diseño UX implica diferentes aspectos, como la arquitectura de la informaci�
 
 ## Contenidos
 
-Todo el contenido esta centralizado en Index.
+Todo el contenido esta centralizado en [Index](english/index.md).
 ## Recomendaciones
 
 Este repositorio tiene como objetivo proporcionar documentación clara de diversas fuentes, agregando recursos gráficos y traducciones al español, para facilitar el acceso a personas hispanohablantes. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite. Recuerda que el conocimiento que no es compartido muere, así que si encuentras útil este repositorio, te invitamos a contribuir y ayudar a ampliar su contenido.
