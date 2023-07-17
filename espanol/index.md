@@ -5,17 +5,17 @@
 ### Marcos
 
 - [Modelo de Comportamiento de BJ Fogg](comprender_la_toma_de_decisiones_humanas/modelo_de_comportamiento_de_bj_fogg.md)
-- [Embudo de Acción CREATE de Stephen Wendell](comprender_la_toma_de_decisiones_humanas/stephen_wendell_s_create_action_funnel.md)
-- [Escala de Intervenciones de Pensamiento](comprender_la_toma_de_decisiones_humanas/spectrum_of_thinking_interventions.md)
+- [Embudo de Acción CREATE de Stephen Wendell](comprender_la_toma_de_decisiones_humanas/embudo_de_accion_create_de_stephen_wendell.md)
+- [Espectro de Intervenciones Cognitivas](comprender_la_toma_de_decisiones_humanas/espectro_de_intervenciones_cognitivas.md)
 - [Teoría del Proceso Dual](comprender_la_toma_de_decisiones_humanas/teoria_del_proceso_dual.md)
 
 ### Palabras Clave a Tener en Cuenta
 
 - [Teoría del Empujón](comprender_la_toma_de_decisiones_humanas/teoria_del_empujon.md)
-- [Tecnología Persuasiva](comprender_la_toma_de_decisiones_humanas/persuasive_technology.md)
+- [Tecnología Persuasiva](comprender_la_toma_de_decisiones_humanas/tecnologia_persuasiva.md)
 - [Diseño del Comportamiento](comprender_la_toma_de_decisiones_humanas/diseño_de_comportamiento.md)
 - [Ciencia del Comportamiento](comprender_la_toma_de_decisiones_humanas/ciencia_del_comportamiento.md)
-- [Economía del Comportamiento](comprender_la_toma_de_decisiones_humanas/)
+- [Economía Conductual](comprender_la_toma_de_decisiones_humanas/economia_conductual.md)
 
 ## Estrategias de Cambio de Comportamiento (pendiente/)
 
