@@ -1,4 +1,4 @@
-# El "Create Action Funnel" de Stephen Wendell
+# Embudo de Acción CREATE de Stephen Wendell
 
 El "Create Action Funnel" de Stephen Wendell es un marco de diseño de UX (Experiencia de Usuario) enfocado en convertir a los visitantes del sitio web en clientes activos a través de un proceso sistemático y atractivo. El enfoque se basa en comprender el comportamiento del usuario, atender a sus necesidades y dirigirlos hacia acciones específicas. El Action Funnel consta de cuatro pasos principales:
 
