@@ -2,18 +2,22 @@
 
 [![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Static Badge](https://img.shields.io/badge/pruebas-ready)
 
-El diseño de experiencia de usuario (UX, por sus siglas en inglés) se refiere al proceso de diseñar productos, sistemas o servicios que brinden una experiencia óptima y satisfactoria a los usuarios. Se centra en comprender las necesidades, comportamientos y expectativas de los usuarios con el fin de crear soluciones que sean intuitivas, fáciles de usar y que les brinden valor.
+## ¿Qué es el Diseño UX (Experiencia de Usuario)?
 
-El diseño UX implica diferentes aspectos, como la arquitectura de la información, el diseño de interfaces, la interacción usuario-producto, la usabilidad y la accesibilidad. Los profesionales de UX utilizan diversas técnicas, como la investigación de usuarios, la creación de prototipos y pruebas de usabilidad, para garantizar que los productos o servicios cumplan con los requisitos y expectativas de los usuarios.
+El diseño UX es un conjunto de procesos, técnicas, métodos y metodologías con los cuales desarrollamos productos, ya sean digitales o físicos. El objetivo es crear experiencias significativas, relevantes y placenteras para los usuarios.
+
+En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es precisamente en ese punto donde entra en juego un diseñador UX. Su rol es diseñar y gestionar cada una de las interacciones que los usuarios tienen con nuestros productos, ya sean físicos o digitales. El diseñador UX se esfuerza por entender las necesidades y comportamientos de los usuarios para ofrecerles una experiencia satisfactoria y agradable en su interacción con el producto.
+
+El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
 ## Contenidos
 
-Todo el contenido esta centralizado en [Index](espanol/index.md).
+Para comprender estos conceptos revisa todo el contenido del [Index](espanol/index.md).
+
 ## Recomendaciones
 
-Este repositorio tiene como objetivo proporcionar documentación clara de diversas fuentes, agregando recursos gráficos y traducciones al español, para facilitar el acceso a personas hispanohablantes. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite. Recuerda que el conocimiento que no es compartido muere, así que si encuentras útil este repositorio, te invitamos a contribuir y ayudar a ampliar su contenido.
+Este repositorio tiene como objetivo proporcionar información clara de diversas fuentes, agregando una traducción a español, para facilitar el acceso a personas hispanohablantes. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite. Recuerda que el conocimiento que no es compartido muere, así que si encuentras útil este repositorio, te invitamos a contribuir y ayudar a ampliar su contenido.
 
 - La estructura del repositorio está organizada de manera intuitiva y jerárquica para facilitar la navegación.
 - Se han incluido índices y tablas de contenido para una rápida referencia y acceso a la información.
