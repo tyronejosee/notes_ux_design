@@ -2,7 +2,7 @@
 
 ## [Comprender la Toma de Decisiones Humanas](comprender_la_toma_de_decisiones_humanas/comprender_la_toma_de_decisiones_humanas.md)
 
-### Marcos
+### Marcos de Trabajo
 
 - [Modelo de Comportamiento de BJ Fogg](comprender_la_toma_de_decisiones_humanas/modelo_de_comportamiento_de_bj_fogg.md)
 - [Embudo de Acción CREATE de Stephen Wendell](comprender_la_toma_de_decisiones_humanas/embudo_de_accion_create_de_stephen_wendell.md)
