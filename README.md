@@ -10,8 +10,8 @@ El diseño UX es un conjunto de procesos, técnicas, métodos y metodologías co
 En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es precisamente en ese punto donde entra en juego un diseñador UX. Su rol es diseñar y gestionar cada una de las interacciones que los usuarios tienen con nuestros productos. El diseñador UX se esfuerza por entender las necesidades y comportamientos de los usuarios para ofrecerles una experiencia satisfactoria y agradable en su interacción con el producto.
 
 El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
-
-Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en ![Index](https://img.shields.io/badge/index-esp-blue). Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
+[![Index](https://img.shields.io/badge/index-esp-blue)](espanol/index.md)
+Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en [![Index](https://img.shields.io/badge/index-esp-blue)](espanol/index.md). Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
 
 ## Recomendaciones
