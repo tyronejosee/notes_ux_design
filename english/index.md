@@ -17,37 +17,37 @@
 - [Behavioral Science](understanding_human_decision_making/behavioral_science.md)
 - [Behavioral Economics](understanding_human_decision_making/behavioral_economics.md)
 
-## [Behavior Change Strategies](pending/)
+## [Behavior Change Strategies](behavior_change_strategies/behavior_change_strategies.md)
 
-### Classifying Behavior**
+### Classifying Behavior
 
-- [BJ Fogg’s Behavior Grid](pending/pending.md)
+- [BJ Fogg’s Behavior Grid](behavior_change_strategies/bj_fogg_s_behavior_grid.md)
 
 ### Changing User's Behavior
 
-- [Support Conscious Action](pending/pending.md)
-  - [Educate and Encourage User](pending/pending.md)
-  - [Help User think about Their Action](pending/pending.md)
-- [Cheating](pending/pending.md)
-  - [Defaulting](pending/pending.md)
-  - [Make it Incidental](pending/pending.md)
-  - [Automate the Act of Repetition](pending/pending.md)
-- [Make or Change Habbits](pending/pending.md)
-  - [Nir Eyal’s Hook Model](pending/pending.md)
-  - [Cue Routine Reward Model](pending/pending.md)
+- [Support Conscious Action](behavior_change_strategies/support_conscious_action.md)
+  - [Educate and Encourage User](behavior_change_strategies/educate_and_encourage_user.md)
+  - [Help User think about Their Action](behavior_change_strategies/help_user_think_about_their_action.md)
+- [Cheating](behavior_change_strategies/cheating.md)
+  - [Defaulting](behavior_change_strategies/defaulting.md)
+  - [Make it Incidental](behavior_change_strategies/make_it_incidental.md)
+  - [Automate the Act of Repetition](behavior_change_strategies/automate_the_act_of_repetition.md)
+- [Make or Change Habbits](behavior_change_strategies/make_or_change_habbits.md)
+  - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
+  - [Cue Routine Reward Model](PENDING)
 
 ### New Behavior - Existing Behavior
 
-- [Help User Avoiding the Cue](pending/pending.md)
-- [Replace the Routine](pending/pending.md)
-- [Use Consciousness to Interfere](pending/pending.md)
-- [Mindfulness to Avoid Acting on the Cue](pending/pending.md)
-- [Crowd Out Old Habit with New Behavior](pending/pending.md)
+- [Help User Avoiding the Cue](PENDING)
+- [Replace the Routine](behavior_change_strategies/replace_the_routine.md)
+- [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_to_interfere.md)
+- [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_to_avoid_acting_on_the_cue.md)
+- [Crowd Out Old Habit with New Behavior](behavior_change_strategies/crowd_out_old_habit_with_new_behavior.md)
 
 ### Making Users Addicted
 
-- [Nir Eyal’s Hook Model](pending/pending.md)
-- [Cue Routine Reward Model](pending/pending.md)
+- [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
+- [Cue Routine Reward Model](PENDING)
 
 ## [Understanding the Product](pending/)
 
