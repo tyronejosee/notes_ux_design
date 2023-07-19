@@ -1,29 +1,29 @@
 # Roadmap: UX Design
 
-[![Repository Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## What is UX Design?
+## ¿Qué es el Diseño UX?
 
-UX (User Experience) Design is a set of processes, techniques, methods, and methodologies used to develop products, whether digital or physical. The goal is to create meaningful, relevant, and enjoyable experiences for users.
+El diseño UX (User Experience) o Experiencia de Usuario, es un conjunto de procesos, técnicas, métodos y metodologías con los cuales desarrollamos productos, ya sean digitales o físicos. El objetivo es crear experiencias significativas, relevantes y placenteras para los usuarios.
 
-At every moment of our lives, we experience reactions and emotions, and it's precisely at that point where a UX designer comes into play. Their role is to design and manage each of the interactions that users have with our products. The UX designer strives to understand the needs and behaviors of users to provide them with a satisfying and pleasant experience in their interaction with the product.
+En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es precisamente en ese punto donde entra en juego un diseñador UX. Su rol es diseñar y gestionar cada una de las interacciones que los usuarios tienen con nuestros productos. El diseñador UX se esfuerza por entender las necesidades y comportamientos de los usuarios para ofrecerles una experiencia satisfactoria y agradable en su interacción con el producto.
 
-The world of experience design is not as straightforward as it seems since the ones reacting and experiencing emotions are people, human beings. It's precisely there where everything becomes complicated; human beings are a complex species with motivations, feelings, environments, behavioral patterns, and a series of complexities that shape us.
+El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
-To gain a solid understanding of these concepts, I invite you to carefully explore the list available at [![Index](https://img.shields.io/badge/index-yellow)](english/index.md). Keep in mind that this information is just a starting point, so it's crucial to continue researching to acquire a deeper and applicable knowledge in various situations.
+Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en [![Index](https://img.shields.io/badge/index-yellow)](index.md). Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
-## Recommendations
+## Recomendaciones
 
-The purpose of this repository is to provide clear information from various sources and facilitate access for Spanish-speaking individuals through its translation. It is designed both as a personal resource and for the benefit of anyone who needs it. Remember that shared knowledge endures, so if you find this repository useful, we invite you to contribute and help expand its content.
+Este repositorio tiene como objetivo proporcionar información clara de diversas fuentes y facilitar el acceso a personas hispanohablantes mediante su traducción al español. Está diseñado tanto como un recurso personal como para el beneficio de cualquier persona que lo necesite. Recuerda que el saber compartido perdura, así que si encuentras útil este repositorio, te invitamos a contribuir y ayudar a expandir su contenido.
 
-- The repository structure is intuitively and hierarchically organized for easy navigation.
-- Tags and categories have been used to classify resources and enhance the search experience.
-- You will find links to additional resources that will complement your knowledge.
+- La estructura del repositorio está organizada de manera intuitiva y jerárquica para una navegación sencilla.
+- Se han utilizado etiquetas y categorías para clasificar los recursos y mejorar la experiencia de búsqueda.
+- Encontrarás enlaces a recursos adicionales, que complementarán tu conocimiento.
 
-### References
+### Referencias
 
-The information present in this repository comes from the following sources:
+La información presente en este repositorio proviene de las siguientes fuentes.
 
 - [Roadmap.sh](https://roadmap.sh/)
 - [YouTube.com](https://www.youtube.com/)
