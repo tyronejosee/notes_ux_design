@@ -34,11 +34,11 @@
   - [Automate the Act of Repetition](behavior_change_strategies/automate_the_act_of_repetition.md)
 - [Make or Change Habbits](behavior_change_strategies/make_or_change_habbits.md)
   - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
-  - [Cue Routine Reward Model](PENDING)
+  - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
 ### New Behavior - Existing Behavior
 
-- [Help User Avoiding the Cue](PENDING)
+- [Help User Avoiding the Cue](behavior_change_strategies/help_user_avoiding_the_cue.md)
 - [Replace the Routine](behavior_change_strategies/replace_the_routine.md)
 - [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_to_interfere.md)
 - [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_to_avoid_acting_on_the_cue.md)
