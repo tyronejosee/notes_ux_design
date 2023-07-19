@@ -47,7 +47,7 @@
 ### Making Users Addicted
 
 - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
-- [Cue Routine Reward Model](PENDING)
+- [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
 ## [Understanding the Product](pending/)
 
