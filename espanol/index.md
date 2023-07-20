@@ -17,37 +17,37 @@
 - [Ciencia del Comportamiento](comprender_la_toma_de_decisiones_humanas/ciencia_del_comportamiento.md)
 - [Economía Conductual](comprender_la_toma_de_decisiones_humanas/economia_conductual.md)
 
-## Estrategias de Cambio de Comportamiento (pendiente/)
+## [Estrategias para el Cambio de Comportamiento](estrategias_para_el_cambio_de_comportamiento/estrategias_para_el_cambio_de_comportamiento.md)
 
 ### Clasificación de Comportamientos
 
-- [Cuadrícula de Comportamiento de BJ Fogg](pendiente/pendiente.md)
+- [Cuadrícula de Comportamiento de BJ Fogg](estrategias_para_el_cambio_de_comportamiento/cuadricula_de_comportamiento_de_bj_fogg.md)
 
 ### Cambio del Comportamiento del Usuario
 
-- [Apoyo a la Acción Consciente](pendiente/pendiente.md)
-  - [Educar y Motivar al Usuario](pendiente/pendiente.md)
-  - [Ayudar al Usuario a Reflexionar sobre su Acción](pendiente/pendiente.md)
-- [Engaño](pendiente/pendiente.md)
-  - [Establecer como Predeterminado](pendiente/pendiente.md)
-  - [Hacerlo Incidental](pendiente/pendiente.md)
-  - [Automatizar el Acto de Repetición](pendiente/pendiente.md)
-- [Crear o Cambiar Hábitos](pendiente/pendiente.md)
-  - [Modelo del Gancho de Nir Eyal](pendiente/pendiente.md)
-  - [Modelo de Estímulo Rutina Recompensa](pendiente/pendiente.md)
+- [Apoyo a la Acción Consciente](estrategias_para_el_cambio_de_comportamiento/apoyo_a_la_accion_consciente.md)
+  - [Educar y Motivar al Usuario](estrategias_para_el_cambio_de_comportamiento/educar_e_motivar_al_usuario.md)
+  - [Ayudar al Usuario a Reflexionar sobre sus Acciones](estrategias_para_el_cambio_de_comportamiento/ayudar_al_usuario_a_reflexionar_sobre_sus_acciones.md)
+- [Trampas](estrategias_para_el_cambio_de_comportamiento/trampas.md)
+  - [Establecer como Predeterminado](estrategias_para_el_cambio_de_comportamiento/predeterminacion.md)
+  - [Hacerlo Incidental](estrategias_para_el_cambio_de_comportamiento/hacerlo_incidental.md)
+  - [Automatizar el Acto de Repetición](estrategias_para_el_cambio_de_comportamiento/automatizar_el_acto_de_repeticion.md)
+- [Crear o Cambiar Hábitos](estrategias_para_el_cambio_de_comportamiento/crear_o_cambiar_habitos.md)
+  - [Modelo del Gancho de Nir Eyal](estrategias_para_el_cambio_de_comportamiento/el_modelo_de_enganche_de_nir_eyal.md)
+  - [Modelo de Estímulo Rutina Recompensa](estrategias_para_el_cambio_de_comportamiento/modelo_estimulo_rutina_recompensa.md)
 
 ### Comportamiento Nuevo - Comportamiento Existente
 
-- [Ayudar al Usuario a Evitar el Estímulo](pendiente/pendiente.md)
-- [Reemplazar la Rutina](pendiente/pendiente.md)
-- [Usar la Conciencia para Interferir](pendiente/pendiente.md)
-- [Atención Plena para Evitar Actuar según el Estímulo](pendiente/pendiente.md)
-- [Desplazar el Viejo Hábito con un Nuevo Comportamiento](pendiente/pendiente.md)
+- [Ayudar al Usuario a Evitar el Estímulo](estrategias_para_el_cambio_de_comportamiento/ayudar_al_usuario_a_evitar_el_estimulo.md)
+- [Reemplazar la Rutina](estrategias_para_el_cambio_de_comportamiento/reemplazar_la_rutina.md)
+- [Usar la Conciencia para Interferir](estrategias_para_el_cambio_de_comportamiento/utiliza_la_conciencia_para_intervenir.md)
+- [Atención Plena para Evitar Actuar según el Estímulo](estrategias_para_el_cambio_de_comportamiento/atencion_plena_para_evitar_actuar_ante_el_estimulo.md)
+- [Desplazar el Viejo Hábito con un Nuevo Comportamiento](estrategias_para_el_cambio_de_comportamiento/desplazar_viejos_habitos_con_nuevos_comportamientos.md)
 
 ### Crear Adicción en los Usuarios
 
-- [Modelo del Gancho de Nir Eyal](pendiente/pendiente.md)
-- [Modelo de Estímulo Rutina Recompensa](pendiente/pendiente.md)
+- [Modelo del Gancho de Nir Eyal](estrategias_para_el_cambio_de_comportamiento/el_modelo_de_enganche_de_nir_eyal.md)
+- [Modelo de Estímulo Rutina Recompensa](estrategias_para_el_cambio_de_comportamiento/modelo_estimulo_rutina_recompensa.md)
 
 ## Comprender el Producto (pendiente/)
 

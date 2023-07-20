@@ -1,4 +1,4 @@
-# Educar e Impulsar al Usuario
+# Educar e Motivar al Usuario
 
 Uno de los objetivos principales del diseño UX es guiar a los usuarios a través del flujo previsto de una aplicación o sitio web, lo que a menudo implica alentarlos a cambiar su comportamiento o hábitos. Educar e impulsar a los usuarios se puede lograr mediante diversos métodos, como la orientación, la retroalimentación y el refuerzo positivo.
 
