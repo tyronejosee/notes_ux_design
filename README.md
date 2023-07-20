@@ -5,8 +5,6 @@
 [![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[![Indice](static/python.svg)](espanol/index.md)
-
 ## ¿Qué es el Diseño UX?
 
 El diseño UX (User Experience) o Experiencia de Usuario, es un conjunto de procesos, técnicas, métodos y metodologías con los cuales desarrollamos productos, ya sean digitales o físicos. El objetivo es crear experiencias significativas, relevantes y placenteras para los usuarios.
