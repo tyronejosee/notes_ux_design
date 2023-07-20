@@ -1,6 +1,6 @@
 # Roadmap: UX Design
 
-![visual](static/visual.svg)
+![Visual](static/visual.svg)
 
 [![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,9 @@ En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es p
 
 El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
-Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en [![Index](https://img.shields.io/badge/index-yellow)](index.md). Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
+Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en **index**. Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
+
+[![Index](static/bottom_index.svg)](espanol/index.md)
 
 ## Recomendaciones
 
@@ -23,9 +25,12 @@ Este repositorio tiene como objetivo proporcionar información clara de diversas
 - Se han utilizado etiquetas y categorías para clasificar los recursos y mejorar la experiencia de búsqueda.
 - Encontrarás enlaces a recursos adicionales, que complementarán tu conocimiento.
 
-### Referencias
+## Referencias
 
 La información presente en este repositorio proviene de las siguientes fuentes.
 
-- [Roadmap.sh](https://roadmap.sh/)
-- [YouTube.com](https://www.youtube.com/)
+- [Roadmap](https://roadmap.sh/)
+- [Chat GPT](https://chat.openai.com/)
+- [YouTube](https://www.youtube.com/)
+- [Figma](https://www.figma.com/)
+- [Space Mono](https://fonts.google.com/specimen/Space+Mono?preview.size=35&query=mono)
