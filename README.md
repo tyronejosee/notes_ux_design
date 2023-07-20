@@ -5,7 +5,6 @@
 [![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-
 [![Indice](static/python.svg)](espanol/index.md)
 
 ## ¿Qué es el Diseño UX?
