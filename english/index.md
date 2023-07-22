@@ -49,31 +49,31 @@
 - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
 - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
-## [Understanding the Product](pending/)
+## [Understanding the Product](understanding_the_product/understanding_the_product.md)
 
 ### Business Model
 
 #### Existing Business Model
 
-- [Business Model Canvas](pending/pending.md)
-- [Lean Canvas](pending/pending.md)
+- [Business Model Canvas](understanding_the_product/business_model_canvas.md)
+- [Lean Canvas](understanding_the_product/lean_canvas.md)
 
 #### New Business Model
 
-- [Business Model Inspirator](pending/pending.md)
-- [Competitor Analysis](pending/pending.md)
-- [Five Forces Model](pending/pending.md)
-- [SWOT Analysis](pending/pending.md)
+- [Business Model Inspirator](understanding_the_product/business_model_inspirator.md)
+- [Competitor Analysis](understanding_the_product/competitor_analysis.md)
+- [Five Forces Model](understanding_the_product/five_forces_model.md)
+- [SWOT Analysis](understanding_the_product/swot_analysis.md)
   
 ### Clarify Product
 
-- [Target Outcome](pending/pending.md)
-- [Target Actor](pending/pending.md)
-- [Target Action](pending/pending.md)
+- [Target Outcome](understanding_the_product/target_outcome.md)
+- [Target Actor](understanding_the_product/target_actor.md)
+- [Target Action](understanding_the_product/target_action.md)
 
 ### Define Target Users
 
-- [Create User Personas](pending/pending.md)
+- [Create User Personas](understanding_the_product/create_user_personas.md)
 
 ## [Conceptual Design](pending/)
 
@@ -166,10 +166,10 @@
 - [Lessen the Burden of Action/Info.](pending/pending.md)
 - [Deploy Peer Comparisons](pending/pending.md)
 
-## [Measuring the Impact](pending/)
+## [Measuring the Impact](measuring_the_impact/measuring_the_impact.md)
 
 ### Testing
 
-- [Incremental A/B Testing](pending/pending.md)
-- [Multivariate Testing](pending/pending.md)
-- [Gather Lessons Learned, Prioritize, Integrate](pending/pending.md)
+- [Incremental A/B Testing](measuring_the_impact/incremental_ab_testing.md)
+- [Multivariate Testing](measuring_the_impact/multivariate_testing.md)
+- [Gather Lessons Learned, Prioritize, Integrate](measuring_the_impact/gather_lessons_learned_prioritize_integrate.md)
