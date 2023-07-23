@@ -75,57 +75,57 @@
 
 - [Create User Personas](understanding_the_product/create_user_personas.md)
 
-## [Conceptual Design](pending/)
+## [Conceptual Design](conceptual_design/conceptual_design.md)
 
 ### Create Product Backlog
 
-- [Existing Business Model](pending/pending.md)
+- [User Stories](conceptual_design/user_stories.md)
 
 ### Thing to Lookout for
 
-- [In general, Keep it Short and Simple](pending/pending.md)
-- [Make it Easy to Understand, Easy to Complete](pending/pending.md)
-- [Make Progress Visible to User](pending/pending.md)
-- [Make Progress Meaningful in order to Reward User](pending/pending.md)
-- [Make Successful Completion Clearly Visible](pending/pending.md)
+- [In general, Keep it Short and Simple](conceptual_design/in_general_keep_it_short_and_simple.md)
+- [Make it Easy to Understand, Easy to Complete](conceptual_design/make_it_easy_to_understand_easy_to_complete.md)
+- [Make Progress Visible to User](conceptual_design/make_progress_visible_to_user.md)
+- [Make Progress Meaningful in order to Reward User](conceptual_design/make_progress_meaningful_in_order_to_reward_user.md)
+- [Make Successful Completion Clearly Visible](conceptual_design/make_successful_completion_clearly_visible.md)
 
 ### Deliverables
 
-- [Customer Experience Map by Mel Edwards](pending/pending.md)
-- [Simple Flowchart](pending/pending.md)
-- [Event-Driven Process Chain Model (EPC)](pending/pending.md)
-- [Business Process Model and Notation (BPMN)](pending/pending.md)
+- [Customer Experience Map by Mel Edwards](conceptual_design/customer_experience_map_by_mel_edwards.md)
+- [Simple Flowchart](conceptual_design/simple_flowchart.md)
+- [Event-Driven Process Chain Model (EPC)](conceptual_design/event_driven_process_chain_model_epc.md)
+- [Business Process Model and Notation (BPMN)](conceptual_design/business_process_model_and_notation_bpmn.md)
 
-## [ProtoTyping](pending/)
+## [ProtoTyping](prototyping/prototyping.md)
 
-- [Good Layout Rules](pending/pending.md)
+- [Good Layout Rules](prototyping/good_layout_rules.md)
 
 ### Wireframing
 
-- [Figma](pending/pending.md)
-- [Adobe XD](pending/pending.md)
-- [Sketch](pending/pending.md)
-- [Balsamiq](pending/pending.md)
+- [Figma](prototyping/figma.md)
+- [Adobe XD](prototyping/adobe_xd.md)
+- [Sketch](prototyping/sketch.md)
+- [Balsamiq](prototyping/balsamiq.md)
 
-## [UX Patterns](pending/)
+## UX Patterns
 
 ### When Attention is Fleeting and Scarce
 
-- [Simple Reminders and Planning Prompts](pending/pending.md)
-- [Status Reports](pending/pending.md)
-- [How-to-Tips](pending/pending.md)
-- [Call to Action](pending/pending.md)
+- [Simple Reminders and Planning Prompts](prototyping/simple_reminders_and_planning_prompts.md)
+- [Status Reports](prototyping/status_reports.md)
+- [How-to-Tips](prototyping/how_to_tips.md)
+- [Call to Action](prototyping/call_to_action.md)
 
 ### When yo have many opportunities to Influence User
 
-- [Decision-Making Support](pending/pending.md)
-- [Behavior Change Games](pending/pending.md)
-- [Gamification](pending/pending.md)
-- [Planners](pending/pending.md)
-- [Reminders](pending/pending.md)
-- [Social Sharing](pending/pending.md)
-- [Goal Trackers](pending/pending.md)
-- [Tutorials](pending/pending.md)
+- [Decision-Making Support](prototyping/decision_making_support.md)
+- [Behavior Change Games](prototyping/behavior_change_games.md)
+- [Gamification](prototyping/gamification.md)
+- [Planners](prototyping/planners.md)
+- [Reminders](prototyping/reminders.md)
+- [Social Sharing](prototyping/social_sharing.md)
+- [Goal Trackers](prototyping/goal_trackers.md)
+- [Tutorials](prototyping/tutorials.md)
 
 ## [UX Best Practices](pending/)
 
