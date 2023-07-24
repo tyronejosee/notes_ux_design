@@ -1,6 +1,6 @@
 # Roadmap: UX Design
 
-![Visual](static/visual.svg)
+![Visual](resources/visual.svg)
 
 [![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
