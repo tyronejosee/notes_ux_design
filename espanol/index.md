@@ -173,3 +173,5 @@
 - [Pruebas A/B Incrementales](pendiente/pendiente.md)
 - [Pruebas Multivariables](pendiente/pendiente.md)
 - [Recopilar Lecciones Aprendidas, Priorizar, Integrar](pendiente/pendiente.md)
+
+## Continue Improving the Product

@@ -127,44 +127,44 @@
 - [Goal Trackers](prototyping/goal_trackers.md)
 - [Tutorials](prototyping/tutorials.md)
 
-## [UX Best Practices](pending/)
+## [UX Best Practices](ux_best_practices/ux_best_practices.md)
 
 ### Getting User Attention
 
-- [Clear the Page of Distractions](pending/pending.md)
-- [Make it Clear, Where to Act](pending/pending.md)
-- [Tell User What the Action is and Ask for it](pending/pending.md)
+- [Clear the Page of Distractions](ux_best_practices/clear_the_page_of_distractions.md)
+- [Make it Clear, Where to Act](ux_best_practices/make_it_clear_where_to_act.md)
+- [Tell User What the Action is and Ask for it](ux_best_practices/tell_user_what_the_action_is_and_ask_for_it.md)
 
 ### Get a Favorable Conscious Evaluation
 
-- [Prime User-Relevant Associations](pending/pending.md)
-- [Leverage Loss Aversion](pending/pending.md)
-- [Use Peer Comparisons](pending/pending.md)
-- [Use Competition](pending/pending.md)
-- [Avoid Cognitive Overhead](pending/pending.md)
-- [Avoid Choice Overload](pending/pending.md)
-- [Avoid Direct Payments](pending/pending.md)
+- [Prime User-Relevant Associations](ux_best_practices/prime_user_relevant_associations.md)
+- [Leverage Loss Aversion](ux_best_practices/leverage_loss_aversion.md)
+- [Use Peer Comparisons](ux_best_practices/use_peer_comparisons.md)
+- [Use Competition](ux_best_practices/use_competition.md)
+- [Avoid Cognitive Overhead](ux_best_practices/avoid_cognitive_overhead.md)
+- [Avoid Choice Overload](ux_best_practices/avoid_choice_overload.md)
+- [Avoid Direct Payments](ux_best_practices/avoid_direct_payments.md)
 
 ### Creating Urgency to Act Now
 
-- [Frame Text to Avoid Temporal Myopia](pending/pending.md)
-- [Remind of Prior Commitment to Act](pending/pending.md)
-- [Make Commitment to Friends](pending/pending.md)
-- [Make Reward Scarce](pending/pending.md)
+- [Frame Text to Avoid Temporal Myopia](ux_best_practices/frame_text_to_avoid_temporal_myopia.md)
+- [Remind of Prior Commitment to Act](ux_best_practices/remind_of_prior_commitment_to_act.md)
+- [Make Commitment to Friends](ux_best_practices/make_commitment_to_friends.md)
+- [Make Reward Scarce](ux_best_practices/make_reward_scarce.md)
 
 ### Getting Positive Intuitive Reaction
 
-- [Make UI Professional and Beautiful](pending/pending.md)
-- [Deploy Social Proof](pending/pending.md)
-- [Deploy Strong Authority on Subject](pending/pending.md)
-- [Be Authentic and Personal](pending/pending.md)
+- [Make UI Professional and Beautiful](ux_best_practices/make_ui_professional_and_beautiful.md)
+- [Deploy Social Proof](ux_best_practices/deploy_social_proof.md)
+- [Deploy Strong Authority on Subject](ux_best_practices/deploy_strong_authority_on_subject.md)
+- [Be Authentic and Personal](ux_best_practices/be_authentic_and_personal.md)
 
 ### Make sure Users can Easily do it
 
-- [Elicit Implementation Intentions](pending/pending.md)
-- [Default Everything](pending/pending.md)
-- [Lessen the Burden of Action/Info.](pending/pending.md)
-- [Deploy Peer Comparisons](pending/pending.md)
+- [Elicit Implementation Intentions](ux_best_practices/elicit_implementation_intentions.md)
+- [Default Everything](ux_best_practices/default_everything.md)
+- [Lessen the Burden of Action/Info.](ux_best_practices/lessen_the_burden_of_action_info.md)
+- [Deploy Peer Comparisons](ux_best_practices/deploy_peer_comparisons.md)
 
 ## [Measuring the Impact](measuring_the_impact/measuring_the_impact.md)
 
@@ -173,3 +173,5 @@
 - [Incremental A/B Testing](measuring_the_impact/incremental_ab_testing.md)
 - [Multivariate Testing](measuring_the_impact/multivariate_testing.md)
 - [Gather Lessons Learned, Prioritize, Integrate](measuring_the_impact/gather_lessons_learned_prioritize_integrate.md)
+
+## Continue Improving the Product
