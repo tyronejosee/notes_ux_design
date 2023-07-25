@@ -4,18 +4,18 @@ Una **Llamada a la Acción (CTA, por sus siglas en inglés)** es un patrón de d
 
 ## Importancia de la Llamada a la Acción
 
-- **Aumento de tasas de conversión:** Una CTA bien ubicada y diseñada puede aumentar significativamente las tasas de conversión, lo que lleva a más registros, compras u otras acciones deseadas por el usuario.
-- **Guía del comportamiento del usuario:** Las CTAs ayudan a guiar a los usuarios a través del flujo de su producto y pueden ayudar a proporcionar un viaje del usuario claro y conciso.
-- **Resaltar características clave:** Una CTA sólida puede llamar la atención sobre características clave o información importante que desea que los usuarios noten y utilicen.
+- **Aumento de Tasas de Conversión:** Una CTA bien ubicada y diseñada puede aumentar significativamente las tasas de conversión, lo que lleva a más registros, compras u otras acciones deseadas por el usuario.
+- **Guía del Comportamiento del Usuario:** Las CTAs ayudan a guiar a los usuarios a través del flujo de su producto y pueden ayudar a proporcionar un viaje del usuario claro y conciso.
+- **Resaltar Características Clave:** Una CTA sólida puede llamar la atención sobre características clave o información importante que desea que los usuarios noten y utilicen.
 
 ## Diseño de una Llamada a la Acción Efectiva
 
 Para crear una CTA efectiva, considera los siguientes factores:
 
 - **Ubicación:** La ubicación de una CTA es crucial para su efectividad. Debe ser fácilmente visible y accesible sin abrumar o distraer a los usuarios. En la mayoría de los casos, colocar las CTAs en la parte superior de la página (la porción visible del sitio web sin desplazarse) ha demostrado ser efectivo.
-- **Tamaño y forma:** El tamaño y la forma de una CTA deben ser coherentes con el diseño general de tu producto. Asegúrate de que sea lo suficientemente grande como para ser fácilmente notado, pero no demasiado grande como para dominar otros contenidos.
-- **Color y contraste:** Elige un color para tu CTA que se destaque del resto de tu diseño. Un alto contraste entre el botón de la CTA y los elementos circundantes puede hacerlo más notable y atraer la atención.
-- **Texto claro y conciso:** El texto en tu CTA debe ser claro, conciso y decirles a los usuarios exactamente qué esperar cuando hagan clic en él. Usa un lenguaje orientado a la acción, como "Registrarse", "Más información" o "Comenzar ahora" para animar a los usuarios a actuar.
+- **Tamaño y Forma:** El tamaño y la forma de una CTA deben ser coherentes con el diseño general de tu producto. Asegúrate de que sea lo suficientemente grande como para ser fácilmente notado, pero no demasiado grande como para dominar otros contenidos.
+- **Color y Contraste:** Elige un color para tu CTA que se destaque del resto de tu diseño. Un alto contraste entre el botón de la CTA y los elementos circundantes puede hacerlo más notable y atraer la atención.
+- **Texto Claro y Conciso:** El texto en tu CTA debe ser claro, conciso y decirles a los usuarios exactamente qué esperar cuando hagan clic en él. Usa un lenguaje orientado a la acción, como "Registrarse", "Más información" o "Comenzar ahora" para animar a los usuarios a actuar.
 
 ## Mejores Prácticas para las CTAs
 
