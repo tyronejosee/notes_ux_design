@@ -1,31 +1,31 @@
-# Status Reports
+# Informes de Estado
 
-Status reports are an essential component of UX patterns that aid in keeping users informed about the current state of the system, task progress, and any relevant updates. By providing real-time feedback, users can understand the outcome of their actions which ultimately helps in building trust, reducing confusion, and enhancing overall user satisfaction.
+Los informes de estado son un componente esencial de los patrones de UX que ayudan a mantener a los usuarios informados sobre el estado actual del sistema, el progreso de las tareas y cualquier actualización relevante. Al proporcionar retroalimentación en tiempo real, los usuarios pueden comprender el resultado de sus acciones, lo que finalmente ayuda a generar confianza, reducir la confusión y mejorar la satisfacción general del usuario.
 
-Here are some key aspects to consider when designing status reports for your application:
+Aquí hay algunos aspectos clave a tener en cuenta al diseñar informes de estado para tu aplicación:
 
-## Timing
+## Momento o Timing
 
-Choose the appropriate time to display status reports so that it doesn’t interrupt the user’s ongoing activities. For instance, progress bars should be visible only when a task requires some time to complete, while error messages should appear right after an incorrect input.
+Elige el momento adecuado para mostrar los informes de estado para que no interrumpan las actividades en curso del usuario. Por ejemplo, las barras de progreso solo deben ser visibles cuando una tarea requiere cierto tiempo para completarse, mientras que los mensajes de error deben aparecer inmediatamente después de una entrada incorrecta.
 
-## Placement
+## Ubicación o Placement
 
-Position the status reports in a way that they naturally draw users’ attention without distracting them from their primary tasks. Some commonly used placements include the top or center of the page for critical alerts, and near the input fields for validation feedback.
+Coloca los informes de estado de manera que atraigan naturalmente la atención del usuario sin distraerlo de sus tareas principales. Algunas ubicaciones comúnmente utilizadas incluyen la parte superior o el centro de la página para alertas críticas, y cerca de los campos de entrada para comentarios de validación.
 
-## Content
+## Contenido
 
-Keep the content of your status report simple, concise, and informative. It should be easy for the user to understand what’s happening and, if necessary, provide clear instructions on how to proceed. Avoid jargon and use plain language that users can easily comprehend.
+Mantén el contenido de tus informes de estado simple, conciso e informativo. Debe ser fácil para el usuario comprender lo que está sucediendo y, si es necesario, proporcionar instrucciones claras sobre cómo proceder. Evita jerga y utiliza un lenguaje sencillo que los usuarios puedan comprender fácilmente.
 
-## Visual Hierarchy
+## Jerarquía Visual
 
-Design your status reports using visual hierarchy principles to prioritize the most important information. Make use of contrast, typography, and other visual elements to help users quickly understand the message and its level of importance.
+Diseña tus informes de estado utilizando principios de jerarquía visual para priorizar la información más importante. Utiliza el contraste, la tipografía y otros elementos visuales para ayudar a los usuarios a comprender rápidamente el mensaje y su nivel de importancia.
 
-## Accessibility
+## Accesibilidad
 
-Ensure your status reports are accessible by providing descriptive text, like alternative text for images, or using ARIA roles for screen readers. This ensures that users with disabilities can also benefit from these useful reports.
+Asegura que tus informes de estado sean accesibles proporcionando texto descriptivo, como texto alternativo para imágenes, o utilizando roles ARIA para lectores de pantalla. Esto garantiza que los usuarios con discapacidades también puedan beneficiarse de estos útiles informes.
 
-## Dismissal
+## Descartar o Dismissal
 
-Offer users the option to dismiss non-critical status reports as per their preference. This can be done by providing a close button for banners, tooltips, and pop-ups.
+Ofrece a los usuarios la opción de descartar informes de estado no críticos según sus preferencias. Esto se puede hacer proporcionando un botón de cierre para banners, consejos o ventanas emergentes.
 
-In conclusion, status reports are a valuable aspect of UX design that effectively communicate essential information to users, thus improving their overall experience with your product. Integrating these principles into your UX pattern can considerably enhance your design’s effectiveness and user satisfaction.
+En conclusión, los informes de estado son un aspecto valioso del diseño de UX que comunica de manera efectiva información esencial a los usuarios, mejorando así su experiencia general con tu producto. Integrar estos principios en tu patrón de UX puede mejorar considerablemente la efectividad de tu diseño y la satisfacción del usuario.

@@ -1,12 +1,12 @@
 # Sketch
 
-Sketch is a powerful digital design tool specifically tailored for user interface (UI) and user experience (UX) design. As part of the creative process, designers use Sketch to create wireframes, visual mockups, and interactive prototypes that help plan and iterate their ideas.
+Sketch es una potente herramienta de diseño digital especialmente diseñada para el diseño de interfaces de usuario (UI) y la experiencia de usuario (UX). Como parte del proceso creativo, los diseñadores utilizan Sketch para crear wireframes, maquetas visuales y prototipos interactivos que ayudan a planificar e iterar sus ideas.
 
-## Key Features
+## Características clave
 
-- **Vector-based:** Unlike pixel-based software (such as Photoshop), Sketch uses vector shapes, enabling you to create crisp and clean designs that can scale to any resolution without losing quality.
-- **Artboards:** Artboards provide designated spaces within your canvas to create designs for various screen sizes, devices and orientations. This makes it easier to design and test responsive layouts.
-- **Symbols:** Symbols are reusable design components, such as buttons, icons, or navigation menus. When you update a symbol, all instances of it across your designs will be updated, making it a huge time-saver.
-- **Export options:** Sketch supports multiple export formats (PNG, JPG, SVG, etc.) and provides options to optimize your assets for different platforms, such as iOS or Android.
-- **Collaboration and Plugins:** Sketch offers a wide range of plugins and integrations for collaborative work and extends its functionality via community-driven addons.
-- **[Sketch Website](https://www.sketch.com/)**
+- **Basado en vectores:** A diferencia del software basado en píxeles (como Photoshop), Sketch utiliza formas vectoriales, lo que te permite crear diseños nítidos y limpios que pueden escalarse a cualquier resolución sin perder calidad.
+- **Artboards:** Los artboards proporcionan espacios designados dentro de tu lienzo para crear diseños para diferentes tamaños de pantalla, dispositivos y orientaciones. Esto facilita el diseño y la prueba de diseños receptivos.
+- **Símbolos:** Los símbolos son componentes de diseño reutilizables, como botones, iconos o menús de navegación. Cuando actualizas un símbolo, todas las instancias de ese símbolo en tus diseños se actualizarán, lo que ahorra mucho tiempo.
+- **Opciones de exportación:** Sketch admite múltiples formatos de exportación (PNG, JPG, SVG, etc.) y proporciona opciones para optimizar tus elementos para diferentes plataformas, como iOS o Android.
+- **Colaboración y complementos:** Sketch ofrece una amplia gama de complementos e integraciones para el trabajo colaborativo y amplía su funcionalidad mediante complementos creados por la comunidad.
+- **[Sitio web de Sketch](https://www.sketch.com/)**

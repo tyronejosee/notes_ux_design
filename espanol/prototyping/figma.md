@@ -1,13 +1,13 @@
 # Figma
 
-**[Figma](https://www.figma.com/)** is a powerful and versatile web-based design tool that allows designers, developers, and stakeholders to collaborate on UI and UX projects in real-time. It’s an excellent choice for creating wireframes and high-fidelity prototypes and supports vector editing, responsive design, and team collaboration.
+**[Figma](https://www.figma.com/)** es una potente y versátil herramienta de diseño basada en web que permite a diseñadores, desarrolladores y partes interesadas colaborar en proyectos de UI y UX en tiempo real. Es una excelente opción para crear wireframes y prototipos de alta fidelidad, y admite edición de vectores, diseño receptivo y colaboración en equipo.
 
-## Key Features
+## Características Clave
 
-- **Real-time collaboration:** Figma lets multiple users work on a single design simultaneously, so teams can easily collaborate and see each other’s changes in real-time.
-- **Platform-independent:** As a web-based tool, Figma is accessible from any device with a browser and an internet connection. It is compatible with Windows, macOS, and Linux.
-- **Components:** Figma uses a ‘component’ system, which allows you to reuse elements across your designs. By creating a master component, any updates made to the master will be reflected in all instances, helping to keep your designs consistent.
-- **Prototyping:** Figma allows you to create interactive prototypes of your designs using built-in prototyping features, including animations and transitions. This helps you to communicate the intended user experience to stakeholders and to test your designs with users.
-- **Version history:** Figma automatically saves your work and maintains a version history that lets you go back to any previous version of your design.
-- **Plugins:** Figma supports a wide range of user-created plugins that extend its functionality, allowing you to tailor the tool to your specific needs.
-- **[Figma Website](https://figma.com/)**
+- **Colaboración en tiempo real:** Figma permite que varios usuarios trabajen en un solo diseño simultáneamente, lo que facilita la colaboración en equipos y ver los cambios de los demás en tiempo real.
+- **Independiente de la plataforma:** Como una herramienta basada en web, Figma es accesible desde cualquier dispositivo con un navegador y una conexión a Internet. Es compatible con Windows, macOS y Linux.
+- **Componentes:** Figma utiliza un sistema de "componentes", que te permite reutilizar elementos en tus diseños. Al crear un componente maestro, cualquier actualización realizada en él se reflejará en todas las instancias, lo que ayuda a mantener tus diseños consistentes.
+- **Prototipado:** Figma te permite crear prototipos interactivos de tus diseños utilizando funciones de prototipado integradas, que incluyen animaciones y transiciones. Esto te ayuda a comunicar la experiencia de usuario prevista a las partes interesadas y probar tus diseños con usuarios.
+- **Historial de versiones:** Figma guarda automáticamente tu trabajo y mantiene un historial de versiones que te permite retroceder a cualquier versión anterior de tu diseño.
+- **Complementos:** Figma admite una amplia gama de complementos creados por usuarios que amplían su funcionalidad, lo que te permite adaptar la herramienta a tus necesidades específicas.
+- **[Sitio web de Figma](https://figma.com/)**

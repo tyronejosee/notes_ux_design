@@ -1,34 +1,34 @@
-# Planners
+# Planificadores
 
-Planners are an essential aspect of UX design, helping users accomplish complex tasks by breaking them down into manageable steps. Planners are particularly useful in situations where users are expected to make decisions or deal with a range of options. They help to create an engaging and interactive experience, guiding users to achieve their goals efficiently.
+Los planificadores son un aspecto esencial del diseño de experiencia de usuario (UX) que ayudan a los usuarios a llevar a cabo tareas complejas desglosándolas en pasos manejables. Los planificadores son especialmente útiles en situaciones donde se espera que los usuarios tomen decisiones o manejen una variedad de opciones. Ayudan a crear una experiencia atractiva e interactiva, guiando a los usuarios para lograr sus objetivos de manera eficiente.
 
-## Characteristics of Planners
+## Características de los Planificadores
 
-There are a few key characteristics that define planners in UX design:
+Existen algunas características clave que definen a los planificadores en el diseño de UX:
 
-- **Clear Guidance:** Planners provide clear instructions and guidance on the various steps involved, making it easier for users to navigate through the process.
-- **Progress Indicators:** Planners typically use some form of progress indicator, such as a progress bar or a checklist, to show users how far along in the process they are.
-- **Error Prevention & Handling:** Planners strive to prevent user errors by providing input validation, feedback, and clear guidelines on what needs to be done. They also handle errors effectively, allowing users to recover and move forward, without getting frustrated.
-- **Flexibility:** Planners offer users the flexibility to complete tasks at their own pace, and provide options for changing or updating information at any stage in the process.
-- **Consistency:** Planners maintain consistency in the design and presentation of information, ensuring that the user experience is familiar and predictable at all times.
+- **Orientación clara:** Los planificadores proporcionan instrucciones y guías claras sobre los diferentes pasos involucrados, facilitando la navegación del usuario a través del proceso.
+- **Indicadores de progreso:** Los planificadores suelen utilizar algún tipo de indicador de progreso, como una barra de progreso o una lista de verificación, para mostrar a los usuarios en qué punto del proceso se encuentran.
+- **Prevención y manejo de errores:** Los planificadores se esfuerzan por prevenir errores del usuario al proporcionar validación de datos, retroalimentación y pautas claras sobre lo que debe hacerse. También manejan los errores de manera efectiva, permitiendo a los usuarios recuperarse y avanzar sin frustraciones.
+- **Flexibilidad:** Los planificadores ofrecen a los usuarios la flexibilidad para completar tareas a su propio ritmo y brindan opciones para cambiar o actualizar la información en cualquier etapa del proceso.
+- **Consistencia:** Los planificadores mantienen la consistencia en el diseño y la presentación de la información, asegurando que la experiencia del usuario sea familiar y predecible en todo momento.
 
-## Types of Planners
+## Tipos de Planificadores
 
-There are various types of planners used in UX design, depending on the specific needs of the project:
+Existen varios tipos de planificadores utilizados en el diseño de UX, según las necesidades específicas del proyecto:
 
-- **Decision Trees:** These provide users with a sequence of binary options, guiding them through a series of choices until they reach a specific end result.
-- **Wizards:** These are step-by-step guides that walk users through a process, presenting one question or task at a time, and only moving on once the user has completed the previous step.
-- **Task Checklists:** These provide users with a list of sub-tasks or actions they must complete in order to achieve a larger goal. Users can check-off tasks as they complete them, and see their progress towards the goal.
-- **Interactive Conversations:** These mimic a conversational interaction between the user and the system, using natural language processing to guide users through tasks or decision-making processes.
+- **Árboles de decisión:** Estos ofrecen a los usuarios una secuencia de opciones binarias, guiándolos a través de una serie de elecciones hasta que llegan a un resultado específico.
+- **Asistentes:** Son guías paso a paso que acompañan a los usuarios en un proceso, presentando una pregunta o tarea a la vez, y avanzando solo cuando el usuario ha completado el paso anterior.
+- **Listas de verificación de tareas:** Estos ofrecen a los usuarios una lista de subtareas o acciones que deben completar para lograr un objetivo más amplio. Los usuarios pueden marcar las tareas a medida que las completan y ver su progreso hacia el objetivo.
+- **Conversaciones interactivas:** Estos simulan una interacción conversacional entre el usuario y el sistema, utilizando procesamiento de lenguaje natural para guiar a los usuarios a través de tareas o procesos de toma de decisiones.
 
-## Implementing Planners
+## Implementación de los Planificadores
 
-When incorporating planners into your UX design, consider the following best practices:
+Al incorporar planificadores en tu diseño de UX, considera las siguientes mejores prácticas:
 
-- Identify the core tasks or decisions your user needs to make and create a logical flow for each process.
-- Use clear and concise language to guide users through steps, ensuring instructions are easy to follow and understand.
-- Implement appropriate progress indicators or feedback mechanisms to show users how close they are to completing the task.
-- Focus on error prevention and offer easy ways for users to recover from mistakes.
-- Ensure that your planner design is consistent with the overall user interface and user experience goals, while also being flexible to accommodate user preferences and habits.
+- Identifica las tareas principales o decisiones que tus usuarios deben tomar y crea un flujo lógico para cada proceso.
+- Utiliza un lenguaje claro y conciso para guiar a los usuarios a través de los pasos, asegurándote de que las instrucciones sean fáciles de seguir y entender.
+- Implementa indicadores de progreso o mecanismos de retroalimentación apropiados para mostrar a los usuarios cuánto han avanzado en la tarea.
+- Enfócate en prevenir errores y ofrece formas sencillas para que los usuarios se recuperen de los mismos.
+- Asegúrate de que el diseño de tu planificador sea coherente con los objetivos generales de la interfaz y la experiencia del usuario, al mismo tiempo que sea flexible para adaptarse a las preferencias y hábitos de los usuarios.
 
-By following these best practices and tailoring planners to meet the needs of your users, you can create a more engaging and user-friendly experience that allows users to complete complex tasks with ease.
+Siguiendo estas mejores prácticas y adaptando los planificadores para satisfacer las necesidades de tus usuarios, podrás crear una experiencia más atractiva y amigable que les permita completar tareas complejas con facilidad.
