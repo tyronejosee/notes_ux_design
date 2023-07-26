@@ -10,7 +10,7 @@ Before diving into UX design, it’s crucial to have a thorough understanding of
 - **Competitor Analysis:** Evaluate the strengths and weaknesses of competitors’ products to identify opportunities for differentiation and improvement, as well as to glean inspiration from successful or innovative designs.
 - **Brand Consistency:** Familiarize yourself with the company’s brand identity, including colors, fonts, and themes. It’s important that your design aligns with the brand in order to create a cohesive and recognizable user experience.
 
-## **Strategies for Understanding the Product**
+## Strategies for Understanding the Product
 
 - **Interview Stakeholders:** Engage with stakeholders, such as product managers and business owners, to gain insights into their goals, requirements, and expectations for the project.
 - **User Research:** Conduct user interviews, surveys, or focus groups to gather information on user needs, pain points, and preferences.
