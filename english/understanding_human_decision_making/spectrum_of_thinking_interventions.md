@@ -1,6 +1,6 @@
 # Spectrum of Thinking Interventions
 
-The *Spectrum of Thinking Interventions* provides a structure to guide your UX design process, helping you identify the types and range of thinking interventions that the user may require. This spectrum encompasses four primary categories: guidance, explanation, exploration, and creation.
+The **Spectrum of Thinking Interventions** provides a structure to guide your UX design process, helping you identify the types and range of thinking interventions that the user may require. This spectrum encompasses four primary categories: guidance, explanation, exploration, and creation.
 
 ## Guidance
 
@@ -26,7 +26,7 @@ Explanation-based interventions provide users with detailed narratives, overview
 
 Exploration-based interventions encourage users to understand and interact with the product by investigating, asking questions, or searching for solutions on their own. This can be done by providing interactive elements, multiple pathways, and opportunities for discovery.
 
-***Examples:***
+**Examples:**
 
 - Interactive simulations or models
 - Advanced search capabilities
