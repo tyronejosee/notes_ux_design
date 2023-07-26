@@ -16,27 +16,27 @@ Since incremental A/B testing generates more specific and focused results, you c
 
 ## How to Conduct Incremental A/B Testing
 
-**Step 1: Identify Your Goal**
+### Step 1: Identify Your Goal
 
 Before you begin testing, you need to have a clear understanding of the goal you are trying to achieve with your incremental change. This could be increasing conversion rates, reducing bounce rates, or improving user engagement.
 
-**Step 2: Define a Hypothesis**
+### Step 2: Define a Hypothesis
 
 Develop a hypothesis for each change. Your hypothesis should be based on research and data and should clearly state your expected outcome from the incremental change.
 
-**Step 3: Design and Implement Changes**
+### Step 3: Design and Implement Changes
 
 Design and implement your changes in line with your hypothesis. Keep your changes specific, targeted, and incremental to improve data accuracy and make implementation easier.
 
-**Step 4: Set up A/B Testing**
+### Step 4: Set up A/B Testing
 
 Use a reliable A/B testing tool to set up your testing environment. Ensure that you have a control version (without changes) and a treatment version (with changes) to compare within the test.
 
-**Step 5: Analyze and Interpret Results**
+### Step 5: Analyze and Interpret Results
 
 Once you’ve completed your test, analyze the results to determine if your incremental change has had the desired impact on your goal. Evaluate the data and make decisions based on your findings.
 
-**Step 6: Iterate and Improve**
+### Step 6: Iterate and Improve
 
 Based on your results, iterate and make improvements to your UX design. Continue running incremental A/B tests as you fine-tune your design to achieve the best possible user experience.
 
