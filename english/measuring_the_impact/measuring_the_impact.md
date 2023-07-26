@@ -6,20 +6,20 @@ Measuring the impact of UX design is crucial to understand its effectiveness and
 
 Several metrics can help you find out whether your UX design is meeting the objectives. Some prominent ones include:
 
-- **User satisfaction:** Gather feedback through surveys, ratings, or interviews to evaluate users’ satisfaction with your design.
-- **Task completion:** Measure the percentage of users who can complete specific tasks within the design without trouble.
-- **Completion time:** Analyze the time taken by users to complete tasks, indicating efficiency and ease of use.
-- **Error rate:** Track the number of errors users make while interacting with your design to assess usability.
-- **Conversion rate:** Calculate the percentage of users who achieve the targeted action (sign-ups, purchases, etc.) to measure design effectiveness.
+- **User Satisfaction:** Gather feedback through surveys, ratings, or interviews to evaluate users’ satisfaction with your design.
+- **Task Completion:** Measure the percentage of users who can complete specific tasks within the design without trouble.
+- **Completion Time:** Analyze the time taken by users to complete tasks, indicating efficiency and ease of use.
+- **Error Rate:** Track the number of errors users make while interacting with your design to assess usability.
+- **Conversion Rate:** Calculate the percentage of users who achieve the targeted action (sign-ups, purchases, etc.) to measure design effectiveness.
 
 ## Methods of Measurement
 
 Various methods can be employed to measure the impact of UX design, such as:
 
-- **Usability testing:** Conduct tests with real users to observe their interactions with your design, identify issues and improvement areas.
-- **A/B testing:** Compare two different versions of your design to determine which one better meets your objectives.
+- **Usability Testing:** Conduct tests with real users to observe their interactions with your design, identify issues and improvement areas.
+- **A/B Testing:** Compare two different versions of your design to determine which one better meets your objectives.
 - **Heatmaps:** Visualize user interactions (clicks, taps, scrolls) within your design to identify popular areas and potential trouble spots.
-- **User surveys and interviews:** Collect qualitative data on user satisfaction, preferences, and pain points to assess the design’s impact.
+- **User Surveys and Interviews:** Collect qualitative data on user satisfaction, preferences, and pain points to assess the design’s impact.
 
 ## Tools for Measuring Impact
 
