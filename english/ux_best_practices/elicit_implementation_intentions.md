@@ -10,11 +10,11 @@ Numerous studies show that when people form implementation intentions, they are 
 
 To encourage users to form implementation intentions, you’ll want to create prompts and guidance within your UX design that help them identify and plan for the specific actions they will take. Here are some tips to help you do this:
 
-- **Break down goals into subtasks:** To help users make plans, divide their overarching goal into smaller, more manageable subtasks. Present these subtasks clearly within your design and encourage users to think about how and when they will complete them.
-- **Provide clear instructions:** Offer step-by-step guidance to help users accomplish each subtask. This can take the form of tooltips, onboarding flows, or even simple checklists.
-- **Set attainable deadlines:** Encourage users to set specific deadlines for when they will complete each subtask. Including a built-in calendar or scheduling functionality can help make this process more seamless.
-- **Create reminders and notifications:** Incorporate reminder mechanisms into your design to help users stay on track with their plans. This can include push notifications, email reminders, or in-app alerts.
-- **Track progress:** Make it easy for users to track their progress toward goal completion. Visual aids, such as progress bars and checklists, go a long way in helping users see how far they’ve come and encouraging them to keep going.
-- **Offer encouragement and feedback:** Positive reinforcement can help keep users motivated and engaged with their plans. Congratulate users on milestones reached and provide feedback on their progress.
+- **Break Down Goals into Subtasks:** To help users make plans, divide their overarching goal into smaller, more manageable subtasks. Present these subtasks clearly within your design and encourage users to think about how and when they will complete them.
+- **Provide Clear Instructions:** Offer step-by-step guidance to help users accomplish each subtask. This can take the form of tooltips, onboarding flows, or even simple checklists.
+- **Set Attainable Deadlines:** Encourage users to set specific deadlines for when they will complete each subtask. Including a built-in calendar or scheduling functionality can help make this process more seamless.
+- **Create Reminders and Notifications:** Incorporate reminder mechanisms into your design to help users stay on track with their plans. This can include push notifications, email reminders, or in-app alerts.
+- **Track Progress:** Make it easy for users to track their progress toward goal completion. Visual aids, such as progress bars and checklists, go a long way in helping users see how far they’ve come and encouraging them to keep going.
+- **Offer Encouragement and Feedback:** Positive reinforcement can help keep users motivated and engaged with their plans. Congratulate users on milestones reached and provide feedback on their progress.
 
 By incorporating these strategies into your UX design, you can foster an environment that supports users in forming implementation intentions and helps them achieve their goals more effectively. Remember, the easier it is for users to make plans and take actionable steps towards their objectives, the more successful and satisfied they will be with your product.

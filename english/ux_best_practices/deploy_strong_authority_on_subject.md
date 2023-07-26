@@ -10,7 +10,7 @@ Deploying strong subject authority refers to providing the user with a sense of 
 
 ## Design and Aesthetics
 
-- **Professional design:** A well-designed interface instills confidence in the user. Choose professional-looking fonts, colors, and other design elements that resonate with your target audience.
+- **Professional Design:** A well-designed interface instills confidence in the user. Choose professional-looking fonts, colors, and other design elements that resonate with your target audience.
 - **Consistency:** Maintain consistency in layout, color schemes, and overall branding. This helps users to associate your content with a familiar and trustworthy organization.
 - **Navigation:** Ensure the navigation is intuitive and easy to use, helping users to explore your content with confidence.
 
