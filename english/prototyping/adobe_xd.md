@@ -4,8 +4,8 @@ Adobe XD (Experience Design) is a powerful design and prototyping tool that allo
 
 ## Key Features of Adobe XD
 
-- **Design tools:** Adobe XD offers a set of powerful design tools, such as vector drawing, the ability to import images, and a range of pre-defined UI components to help you create aesthetically pleasing designs. The built-in grid system allows for precise alignment and consistency across your designs.
-- **Responsive artboards:** XD allows you to create multiple artboards for different devices and screen sizes. This enables you to visualize and design in one go, for multiple device types.
+- **Design Tools:** Adobe XD offers a set of powerful design tools, such as vector drawing, the ability to import images, and a range of pre-defined UI components to help you create aesthetically pleasing designs. The built-in grid system allows for precise alignment and consistency across your designs.
+- **Responsive Artboards:** XD allows you to create multiple artboards for different devices and screen sizes. This enables you to visualize and design in one go, for multiple device types.
 - **Prototype and Interactions:** With Adobe XD, you can easily add interactions to your designs. This helps in better communication of your ideas and makes it easier for clients and developers to understand your vision. The preview mode enables you to test your prototype and see the interactions in real-time.
 - **Collaboration and Sharing:** Adobe XD simplifies collaboration between team members, stakeholders, and developers. You can create shared design specs and live URLs for your prototypes, gather feedback, and even co-edit documents with other designers in real-time.
 - **Integrations:** XD seamlessly integrates with other Adobe Creative Cloud applications, such as Photoshop, Illustrator, and After Effects, enabling smoother workflows and consistency across your designs. It also supports third-party plugins to expand its capabilities.

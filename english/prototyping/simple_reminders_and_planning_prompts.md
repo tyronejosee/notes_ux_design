@@ -8,17 +8,17 @@ Users often have multiple tasks to juggle simultaneously, making it easy for thi
 
 - **Forgetfulness:** People sometimes need a gentle nudge to remember their next step or obligation.
 - **Procrastination:** Timely reminders can encourage users to prioritize their tasks and meet deadlines.
-- **Lack of motivation:** Well-crafted planning prompts can inspire users to take action and stay engaged with your product.
+- **Lack of Motivation:** Well-crafted planning prompts can inspire users to take action and stay engaged with your product.
 
 ## Types of Reminders and Planning Prompts
 
 To provide effective, well-timed reminders and prompts, consider employing the following methods:
 
-- **Push notifications:** Utilize mobile or desktop notifications to remind users about upcoming tasks, appointments, or deadlines.
-- **In-product prompts:** Place on-screen prompts to encourage users to take specific actions while using the application.
-- **Email reminders:** Send scheduled emails to users as reminders for tasks or appointment confirmation.
+- **Push Notifications:** Utilize mobile or desktop notifications to remind users about upcoming tasks, appointments, or deadlines.
+- **In-product Prompts:** Place on-screen prompts to encourage users to take specific actions while using the application.
+- **Email Reminders:** Send scheduled emails to users as reminders for tasks or appointment confirmation.
 - **Badges:** Use badges or other visual cues to indicate pending tasks, such as unread messages or incomplete items in a to-do list.
-- **Calendar integration:** Integrate your application with calendar tools, so users can easily add and access reminders and events.
+- **Calendar Integration:** Integrate your application with calendar tools, so users can easily add and access reminders and events.
 
 ## Strategies for Effective Reminders and Planning Prompts
 

@@ -2,14 +2,14 @@
 
 Goal trackers are essential UX patterns that enable users to monitor their progress towards accomplishing a specific task or objective. Essentially, they help users stay motivated, organized and informed about their journey within an app, website, or system. In this guide, we’ll explore the significance of goal trackers, and how to effectively design and incorporate them in your projects.
 
-## Why use goal trackers?
+## Why Use Goal Trackers?
 
 - **Motivation:** By visibly displaying the progress made, goal trackers constantly motivate users to actively participate in the experience and work towards completing their goals.
 - **Expectation Management:** They provide clear guidance on the steps required, inform users about the remaining tasks or subgoals, and aid users in estimating the time and effort needed.
 - **Sense of Achievement:** Goal trackers can enhance user satisfaction by celebrating milestones and achieved objectives, reaffirming that the effort invested has produced tangible results.
 - **Personalization:** Users can customize their experience by setting up personalized goals and tracking their progress, fostering a greater sense of ownership and connection.
 
-## Essential components of goal trackers
+## Essential Components of Goal Trackers
 
 A well-designed goal tracker will typically include the following elements:
 
@@ -18,7 +18,7 @@ A well-designed goal tracker will typically include the following elements:
 - **Animations & Feedback:** Using animations, notifications, and other visual cues can make users feel rewarded for their progress, reinforcing positive behavior.
 - **Summaries & Overviews:** A concise summary or overview of the user’s progress and remaining tasks/subgoals allows users to quickly ascertain their position within the overall structure.
 
-## Designing effective goal trackers
+## Designing Effective Goal Trackers
 
 When designing a goal tracker, consider these best practices for optimal UX:
 

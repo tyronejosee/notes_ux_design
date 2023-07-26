@@ -15,8 +15,8 @@ In the realm of UX design, **Social Sharing** is a crucial pattern that allows
 - **Positioning:** Place the social sharing buttons at an easily accessible location on the page, e.g., top, bottom, or alongside the content.
 - **Size and Style:** Opt for clear and recognizable social icons that are easy to tap or click. Ensure their size is adequate to avoid any UX issues.
 - **Customization:** Tailor the design of social sharing buttons to complement your website or app’s visual appeal.
-- **Selective platforms:** Focus on the most popular or relevant social media platforms for your target audience; not every platform may be necessary.
-- **Share counts:** Show the number of shares for individual content pieces when appropriate, as it adds social proof and encourages more shares.
-- **Mobile optimization:** Ensure your social sharing buttons are functional and visually appealing on mobile devices, as a significant portion of sharing occurs via mobile.
+- **Selective Platforms:** Focus on the most popular or relevant social media platforms for your target audience; not every platform may be necessary.
+- **Share Counts:** Show the number of shares for individual content pieces when appropriate, as it adds social proof and encourages more shares.
+- **Mobile Optimization:** Ensure your social sharing buttons are functional and visually appealing on mobile devices, as a significant portion of sharing occurs via mobile.
 
 Incorporating social sharing into your UX design not only provides opportunities for increased engagement but also serves as an effective marketing tool. Remember, a well-designed and strategically placed social sharing component can lead to a higher reach and greater success for your brand.
