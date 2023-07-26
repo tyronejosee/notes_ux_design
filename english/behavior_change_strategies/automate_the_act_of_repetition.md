@@ -14,10 +14,10 @@ When properly implemented, automation can:
 
 As a UX designer, consider the following strategies to automate repetitive tasks:
 
-- **Pre-fill forms**: Auto-fill form fields with the information that the user has entered previously or is likely to enter, such as their name, email address, or phone number. This can save users time and effort in filling out forms.
-- **Remember user preferences**: Store user settings and preferences, such as preferred language, currency, or theme, so that users don’t have to set them again every time they visit your site or app.
-- **Smart suggestions**: Implement predictive text or auto-suggestions based on user input or past behavior. For example, when typing search queries or filling out forms, users may appreciate suggestions to help them complete their task quickly.
-- **Batch actions**: Allow users to perform actions, like selecting or deleting items, in groups rather than individually. This can significantly reduce the number of clicks and time required to complete the task.
-- **Keyboard shortcuts**: Provide keyboard shortcuts for common actions, enabling users to perform tasks without using a mouse or touch interactions. This can be particularly helpful for power users or users with accessibility needs.
+- **Pre-fill Forms**: Auto-fill form fields with the information that the user has entered previously or is likely to enter, such as their name, email address, or phone number. This can save users time and effort in filling out forms.
+- **Remember User Preferences**: Store user settings and preferences, such as preferred language, currency, or theme, so that users don’t have to set them again every time they visit your site or app.
+- **Smart Suggestions**: Implement predictive text or auto-suggestions based on user input or past behavior. For example, when typing search queries or filling out forms, users may appreciate suggestions to help them complete their task quickly.
+- **Batch Actions**: Allow users to perform actions, like selecting or deleting items, in groups rather than individually. This can significantly reduce the number of clicks and time required to complete the task.
+- **Keyboard Shortcuts**: Provide keyboard shortcuts for common actions, enabling users to perform tasks without using a mouse or touch interactions. This can be particularly helpful for power users or users with accessibility needs.
 
 By automating acts of repetition in your design, you can enhance the user experience, reduce frustration and improve overall satisfaction. Be mindful of your users’ needs, analyze the repetitive tasks they may encounter, and implement effective automation techniques to create a seamless, efficient, and enjoyable experience.
