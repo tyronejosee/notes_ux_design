@@ -11,10 +11,10 @@ Realizar un análisis DAFO puede ayudarte a identificar y priorizar las áreas q
 
 Para asegurar un análisis DAFO integral, sigue estos pasos:
 
-- **Recopila información relevante:** Comienza recopilando datos sobre las fortalezas y debilidades internas, como el rendimiento financiero y la estructura organizativa. Para el análisis externo, examina las tendencias del mercado, las estrategias de los competidores y otros factores que impacten el entorno empresarial.
-- **Factores notables:** Enumera los factores que afectan el desempeño de tu negocio y clasifícalos en fortalezas, debilidades, oportunidades y amenazas.
-- **Evalúa y prioriza:** Evalúa la importancia de cada elemento dentro de la matriz DAFO, considerando tanto su impacto en el negocio como los recursos necesarios para abordarlo.
-- **Desarrolla estrategias:** Utiliza los resultados del DAFO para crear estrategias efectivas que aprovechen las fortalezas, aborden las debilidades, capitalicen las oportunidades y mitiguen las amenazas.
-- **Monitorea el progreso:** Realiza un seguimiento continuo del progreso de tus estrategias, evaluando su efectividad y actualizando el análisis DAFO según sea necesario.
+- **Recopila Información Relevante:** Comienza recopilando datos sobre las fortalezas y debilidades internas, como el rendimiento financiero y la estructura organizativa. Para el análisis externo, examina las tendencias del mercado, las estrategias de los competidores y otros factores que impacten el entorno empresarial.
+- **Factores Notables:** Enumera los factores que afectan el desempeño de tu negocio y clasifícalos en fortalezas, debilidades, oportunidades y amenazas.
+- **Evalúa y Prioriza:** Evalúa la importancia de cada elemento dentro de la matriz DAFO, considerando tanto su impacto en el negocio como los recursos necesarios para abordarlo.
+- **Desarrolla Estrategias:** Utiliza los resultados del DAFO para crear estrategias efectivas que aprovechen las fortalezas, aborden las debilidades, capitalicen las oportunidades y mitiguen las amenazas.
+- **Monitorea el Progreso:** Realiza un seguimiento continuo del progreso de tus estrategias, evaluando su efectividad y actualizando el análisis DAFO según sea necesario.
 
 En resumen, un análisis DAFO puede servir como un excelente punto de partida para crear una estrategia de diseño UX sólida. Al comprender los factores internos y externos que influyen en tu negocio, puedes tomar decisiones informadas al diseñar experiencias de usuario que conecten con tu audiencia objetivo y fomenten el crecimiento del negocio.
