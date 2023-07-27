@@ -6,15 +6,15 @@ El prototipado es una etapa crucial en el proceso de diseño de Experiencia de U
 
 Los prototipos de baja fidelidad son representaciones simples y aproximadas del diseño que se centran en la estructura general y las principales funcionalidades. Son rápidos de crear y permiten a los diseñadores probar rápidamente ideas y recopilar comentarios de los usuarios. Algunos ejemplos incluyen:
 
-- Bocetos en papel: Dibujos hechos en papel que transmiten el diseño básico y la estructura de la interfaz.
-- Wireframes: Representaciones digitales simples de la interfaz de usuario, que muestran la disposición de los elementos sin ningún estilo visual.
+- **Bocetos en papel:** Dibujos hechos en papel que transmiten el diseño básico y la estructura de la interfaz.
+- **Wireframes:** Representaciones digitales simples de la interfaz de usuario, que muestran la disposición de los elementos sin ningún estilo visual.
 
 ## Prototipado de Alta Fidelidad
 
 Los prototipos de alta fidelidad son más detallados e interactivos, asemejándose estrechamente al producto final. Incluyen el diseño visual, animaciones e interacciones, lo que permite realizar pruebas de usuario efectivas y mostrar el diseño a clientes o partes interesadas. Algunos ejemplos incluyen:
 
-- Mockups interactivos: Representaciones clicables de la interfaz que incorporan diseño visual e interacciones, a menudo creados con herramientas de prototipado como Sketch, Adobe XD o Figma.
-- Prototipos HTML: Prototipos interactivos construidos utilizando HTML, CSS y JavaScript, que pueden ser una buena opción si los diseñadores tienen habilidades de codificación y desean una representación más precisa del producto final.
+- **Mockups Interactivos:** Representaciones clicables de la interfaz que incorporan diseño visual e interacciones, a menudo creados con herramientas de prototipado como Sketch, Adobe XD o Figma.
+- **Prototipos HTML:** Prototipos interactivos construidos utilizando HTML, CSS y JavaScript, que pueden ser una buena opción si los diseñadores tienen habilidades de codificación y desean una representación más precisa del producto final.
 
 ## Elección del Método de Prototipado Adecuado
 
@@ -24,8 +24,8 @@ No existe un enfoque único para el prototipado. El mejor método depende de fac
 
 El prototipado es esencial en el diseño de Experiencia de Usuario porque:
 
-- Ahorra tiempo y dinero: Al identificar y abordar problemas de usabilidad o diseño temprano en el proceso, se pueden evitar costosos rediseños o cambios de desarrollo.
-- Facilita la colaboración: Los prototipos permiten a los diseñadores, interesados y desarrolladores discutir el diseño y brindar comentarios significativos.
-- Mejora la experiencia del usuario: Las pruebas iterativas y la mejora del diseño basada en los comentarios aseguran que el producto final satisfaga las necesidades y expectativas del usuario.
+- **Ahorra tiempo y dinero:** Al identificar y abordar problemas de usabilidad o diseño temprano en el proceso, se pueden evitar costosos rediseños o cambios de desarrollo.
+- **Facilita la colaboración:** Los prototipos permiten a los diseñadores, interesados y desarrolladores discutir el diseño y brindar comentarios significativos.
+- **Mejora la experiencia del usuario:** Las pruebas iterativas y la mejora del diseño basada en los comentarios aseguran que el producto final satisfaga las necesidades y expectativas del usuario.
 
 En conclusión, el prototipado es un paso crucial en el proceso de diseño de Experiencia de Usuario que ayuda a los diseñadores a probar ideas, recopilar comentarios e iterar en el diseño, lo que finalmente conduce a un producto final más centrado en el usuario.

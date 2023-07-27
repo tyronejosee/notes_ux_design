@@ -1,20 +1,20 @@
 # Recordatorios
 
-Los ***recordatorios*** desempeñan un papel esencial en la experiencia del usuario, especialmente cuando se trata de mantener la atención y el compromiso del usuario. Pueden ser útiles para asegurarse de que el usuario se mantenga enfocado en sus tareas, recuerde información importante o plazos, y siga interactuando continuamente con su producto o diseño.
+Los **recordatorios** desempeñan un papel esencial en la experiencia del usuario, especialmente cuando se trata de mantener la atención y el compromiso del usuario. Pueden ser útiles para asegurarse de que el usuario se mantenga enfocado en sus tareas, recuerde información importante o plazos, y siga interactuando continuamente con su producto o diseño.
 
 ## Importancia de los Recordatorios
 
 - **Compromiso del Usuario:** Los recordatorios pueden servir como una oportunidad para llevar a los usuarios de regreso a su aplicación o sitio web, asegurándose de que no olviden usar su producto o servicio.
-- **Notificaciones oportunas:** Cuando un recordatorio está bien programado y es relevante, puede ser una herramienta útil para evitar que los usuarios se pierdan información crucial o tareas importantes.
+- **Notificaciones Oportunas:** Cuando un recordatorio está bien programado y es relevante, puede ser una herramienta útil para evitar que los usuarios se pierdan información crucial o tareas importantes.
 - **Experiencia de Usuario Positiva:** El uso efectivo de los recordatorios puede crear una experiencia positiva para los usuarios, haciéndolos sentir respaldados y confiados al usar su producto o servicio.
 
 ## Tipos de Recordatorios
 
 Hay varios tipos de recordatorios que se pueden utilizar en el diseño de UX. Aquí hay algunos de los más comunes:
 
-- **Recordatorios basados en el Tiempo:** Estos se establecen en intervalos o momentos específicos y están diseñados para asegurarse de que los usuarios no olviden tareas importantes o eventos relacionados con su producto o servicio.
-- **Recordatorios basados en la Ubicación:** Se activan al entrar o salir de ciertas ubicaciones y pueden ser útiles para tareas relacionadas con un lugar o área específica.
-- **Recordatorios basados en la Acción:** Se inician por acciones del usuario y pueden proporcionar indicaciones útiles o acciones de seguimiento basadas en el comportamiento del usuario dentro de su aplicación o sitio web.
+- **Recordatorios Basados en el Tiempo:** Estos se establecen en intervalos o momentos específicos y están diseñados para asegurarse de que los usuarios no olviden tareas importantes o eventos relacionados con su producto o servicio.
+- **Recordatorios Basados en la Ubicación:** Se activan al entrar o salir de ciertas ubicaciones y pueden ser útiles para tareas relacionadas con un lugar o área específica.
+- **Recordatorios Basados en la Acción:** Se inician por acciones del usuario y pueden proporcionar indicaciones útiles o acciones de seguimiento basadas en el comportamiento del usuario dentro de su aplicación o sitio web.
 
 ## Mejores Prácticas
 

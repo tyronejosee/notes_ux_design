@@ -2,14 +2,14 @@
 
 Los rastreadores de objetivos son patrones esenciales de diseño de experiencia de usuario (UX) que permiten a los usuarios monitorear su progreso hacia la consecución de una tarea u objetivo específico. Básicamente, ayudan a los usuarios a mantenerse motivados, organizados e informados sobre su avance dentro de una aplicación, sitio web o sistema. En esta guía, exploraremos la importancia de los rastreadores de objetivos y cómo diseñarlos e incorporarlos eficazmente en sus proyectos.
 
-## ¿Por qué usar rastreadores de objetivos?
+## ¿Por qué Usar Rastreadores de Objetivos?
 
 - **Motivación:** Al mostrar visualmente el progreso realizado, los rastreadores de objetivos motivan constantemente a los usuarios a participar activamente en la experiencia y trabajar para alcanzar sus metas.
-- **Gestión de expectativas:** Proporcionan orientación clara sobre los pasos necesarios, informan a los usuarios sobre las tareas o subobjetivos restantes y ayudan a estimar el tiempo y esfuerzo necesarios.
-- **Sentimiento de logro:** Los rastreadores de objetivos pueden mejorar la satisfacción del usuario al celebrar hitos y objetivos alcanzados, reafirmando que el esfuerzo invertido ha producido resultados tangibles.
+- **Gestión de Expectativas:** Proporcionan orientación clara sobre los pasos necesarios, informan a los usuarios sobre las tareas o subobjetivos restantes y ayudan a estimar el tiempo y esfuerzo necesarios.
+- **Sentimiento de Logro:** Los rastreadores de objetivos pueden mejorar la satisfacción del usuario al celebrar hitos y objetivos alcanzados, reafirmando que el esfuerzo invertido ha producido resultados tangibles.
 - **Personalización:** Los usuarios pueden personalizar su experiencia estableciendo objetivos personalizados y siguiendo su progreso, fomentando un mayor sentido de propiedad y conexión.
 
-## Componentes esenciales de los rastreadores de objetivos
+## Componentes Esenciales de los Rastreadores de Objetivos
 
 Un rastreador de objetivos bien diseñado generalmente incluirá los siguientes elementos:
 
@@ -18,7 +18,7 @@ Un rastreador de objetivos bien diseñado generalmente incluirá los siguientes 
 - **Animaciones y Retroalimentación:** El uso de animaciones, notificaciones y otras señales visuales puede hacer que los usuarios se sientan recompensados por su progreso, reforzando comportamientos positivos.
 - **Resúmenes y Vistas Generales:** Un resumen conciso o una vista general del progreso del usuario y las tareas/subobjetivos restantes permite a los usuarios conocer rápidamente su posición dentro de la estructura general.
 
-## Diseño efectivo de rastreadores de objetivos
+## Diseño Efectivo de Rastreadores de Objetivos
 
 Al diseñar un rastreador de objetivos, considere estas mejores prácticas para lograr una experiencia óptima para el usuario:
 

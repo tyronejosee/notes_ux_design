@@ -1,6 +1,6 @@
 # Llamada a la Acción
 
-Una **Llamada a la Acción (CTA, por sus siglas en inglés)** es un patrón de diseño de UX que anima a los usuarios a realizar una acción específica en un sitio web, aplicación u otro producto digital. Es un componente esencial del diseño de UX efectivo, ya que ayuda a guiar a los usuarios a través de la experiencia y lograr sus objetivos. Las CTAs pueden presentarse en diversas formas, como botones, enlaces, imágenes o texto.
+Una **Llamada a la Acción (CTA, por sus Siglas en Inglés)** es un patrón de diseño de UX que anima a los usuarios a realizar una acción específica en un sitio web, aplicación u otro producto digital. Es un componente esencial del diseño de UX efectivo, ya que ayuda a guiar a los usuarios a través de la experiencia y lograr sus objetivos. Las CTAs pueden presentarse en diversas formas, como botones, enlaces, imágenes o texto.
 
 ## Importancia de la Llamada a la Acción
 
