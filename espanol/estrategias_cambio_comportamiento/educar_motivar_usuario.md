@@ -8,10 +8,10 @@ Uno de los objetivos principales del diseño UX es guiar a los usuarios a travé
 - **Retroalimentación:** Proporcionar retroalimentación en tiempo real a medida que los usuarios interactúan con tu aplicación. Esto puede variar desde notificaciones básicas hasta información más detallada adaptada a sus comportamientos específicos.
   - Ejemplo: Cuando un usuario crea una contraseña, mostrar un medidor interactivo de fortaleza que indique si su contraseña elegida es fuerte o débil. Esto puede alentar al usuario a elegir una contraseña más sólida y segura.
 
-- **Refuerzo positivo:** Alentar a los usuarios a continuar utilizando tu aplicación al recompensarlos por alcanzar hitos o completar tareas. Esto se puede lograr mediante elementos de gamificación como insignias, puntos e indicadores de progreso.
+- **Refuerzo Positivo:** Alentar a los usuarios a continuar utilizando tu aplicación al recompensarlos por alcanzar hitos o completar tareas. Esto se puede lograr mediante elementos de gamificación como insignias, puntos e indicadores de progreso.
   - Ejemplo: Otorgar una insignia a los usuarios que completen su perfil o conecten sus cuentas de redes sociales. Esto puede alentar a los usuarios a participar plenamente en tu aplicación y formar el hábito de usarla regularmente.
 
-- **Influencia social:** Utilizar pruebas sociales para promover un cambio en el comportamiento del usuario. Mostrar las acciones o opiniones de otros usuarios puede crear un sentido de comunidad e impulsar a los usuarios a seguir el ejemplo.
+- **Influencia Social:** Utilizar pruebas sociales para promover un cambio en el comportamiento del usuario. Mostrar las acciones o opiniones de otros usuarios puede crear un sentido de comunidad e impulsar a los usuarios a seguir el ejemplo.
   - Ejemplo: Mostrar el número de usuarios que han completado una tarea o dado votos positivos a un contenido, lo que puede motivar a otros usuarios a seguir la aparente tendencia.
 
 - **Personalización:** Adaptarse a los usuarios presentándoles contenido personalizado basado en sus preferencias, patrones de uso y acciones anteriores. La personalización puede hacer que los usuarios se sientan más comprometidos con la aplicación, lo que puede animarlos a usarla y participar de manera constante.

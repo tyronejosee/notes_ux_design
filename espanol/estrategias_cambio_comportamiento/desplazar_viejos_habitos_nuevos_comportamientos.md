@@ -10,10 +10,10 @@ En primer lugar, comienza observando e investigando cómo interactúan los usuar
 
 Después de identificar los hábitos que deben ser reemplazados, enfócate en diseñar nuevos comportamientos que sean más eficientes, agradables o beneficiosos para los usuarios. Para hacerlo, considera emplear las siguientes estrategias:
 
-- Hacer que el nuevo comportamiento sea sencillo: Asegúrate de que el nuevo comportamiento sea fácil de entender y llevar a cabo para que los usuarios lo adopten de forma natural.
+- **Hacer que el Nuevo Comportamiento Sea Sencillo:** Asegúrate de que el nuevo comportamiento sea fácil de entender y llevar a cabo para que los usuarios lo adopten de forma natural.
 - Utilizar señales visuales: Incorpora señales visuales en tu diseño para recordar sutilmente a los usuarios el nuevo comportamiento que deben adoptar.
-- Reforzamiento positivo: Anima a los usuarios a adoptar el nuevo comportamiento proporcionando retroalimentación, recompensas o incentivos.
-- Incorporación progresiva: Introduce gradualmente a los usuarios en el nuevo comportamiento, dándoles tiempo suficiente para adaptarse y comprender sus beneficios.
+- **Reforzamiento Positivo:** Anima a los usuarios a adoptar el nuevo comportamiento proporcionando retroalimentación, recompensas o incentivos.
+- **Incorporación Progresiva:** Introduce gradualmente a los usuarios en el nuevo comportamiento, dándoles tiempo suficiente para adaptarse y comprender sus beneficios.
 
 ## Implementación y Pruebas
 
