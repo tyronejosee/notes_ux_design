@@ -4,10 +4,10 @@ El Modelo y Notación de Procesos de Negocio (BPMN) es una representación gráf
 
 ## Componentes Clave de BPMN
 
-- Objetos de Flujo: Son los bloques principales de un diagrama BPMN, que incluyen eventos, actividades y gateways (puertas de enlace).
-- Objetos de Conexión: Enlazan los elementos entre los objetos de flujo, como flujos de secuencia, flujos de mensajes y asociaciones.
-- Swimlanes (carriles): Son elementos visuales que ayudan a organizar actividades en función de roles o responsabilidades.
-- Artefactos: Son elementos suplementarios que proporcionan información adicional, como objetos de datos, agrupaciones y anotaciones.
+- **Objetos de Flujo:** Son los bloques principales de un diagrama BPMN, que incluyen eventos, actividades y gateways (puertas de enlace).
+- **Objetos de Conexión:** Enlazan los elementos entre los objetos de flujo, como flujos de secuencia, flujos de mensajes y asociaciones.
+- **Swimlanes (Carriles):** Son elementos visuales que ayudan a organizar actividades en función de roles o responsabilidades.
+- **Artefactos:** Son elementos suplementarios que proporcionan información adicional, como objetos de datos, agrupaciones y anotaciones.
 
 ## Beneficios de BPMN para el Diseño de UX
 
