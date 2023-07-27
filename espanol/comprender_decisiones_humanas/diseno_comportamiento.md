@@ -4,9 +4,9 @@ El diseño de comportamiento es un enfoque que combina elementos de psicología,
 
 En el contexto del diseño de experiencia de usuario (UX), el diseño de comportamiento se centra en:
 
-- **Motivación**: Comprender qué motiva a los usuarios a tomar acción, como intereses personales, recompensas externas o influencia social.
-- **Capacidad**: Asegurarse de que los usuarios tengan las habilidades, el tiempo y los recursos necesarios para completar una acción deseada.
-- **Disparadores**: Implementar recordatorios bien programados que animen a los usuarios a tomar una acción específica dentro de la interfaz.
+- **Motivación:** Comprender qué motiva a los usuarios a tomar acción, como intereses personales, recompensas externas o influencia social.
+- **Capacidad:** Asegurarse de que los usuarios tengan las habilidades, el tiempo y los recursos necesarios para completar una acción deseada.
+- **Disparadores:** Implementar recordatorios bien programados que animen a los usuarios a tomar una acción específica dentro de la interfaz.
 
 Para crear diseños de comportamiento efectivos, los diseñadores de UX deben:
 
