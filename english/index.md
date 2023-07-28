@@ -166,7 +166,7 @@
 
 ## [Measuring the Impact](measuring_impact/measuring_impact.md)
 
-**![Alt text](image.png) Testing:**
+**Testing:**
 
 - [Incremental A/B Testing](measuring_impact/incremental_ab_testing.md)
 - [Multivariate Testing](measuring_impact/multivariate_testing.md)
