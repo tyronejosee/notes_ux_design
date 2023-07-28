@@ -13,9 +13,9 @@ En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es p
 
 El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
-Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en **index**. Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
+Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la lista disponible en `INDEX`. Ten presente que esta información es solo un punto de partida, por lo que es crucial que sigas investigando para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
-[![Index](static/bottom_index.svg)](espanol/index.md)
+[![Index](resources/bottom_index.svg)](espanol/index.md)
 
 ## Recomendaciones
 
