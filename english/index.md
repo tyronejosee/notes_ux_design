@@ -1,12 +1,14 @@
 # Index
 
+---
+
 ## [Understanding Human Decision Making](understanding_human_decision_making/understanding_human_decision_making.md)
 
 ### Frameworks
 
 - [BJ Fogg’s Behavior Model](understanding_human_decision_making/bj_fogg_s_behavior_model.md)
 - [Stephen Wendell’s CREATE Action Funnel](understanding_human_decision_making/stephen_wendell_s_create_action_funnel.md)
-- [Spectrum of Thinking Interventions](understanding_human_decision_making/spectrum_of_thinking_interventions.md)
+- [Spectrum of Thinking Interventions](understanding_human_decision_making/spectrum_thinking_interventions.md)
 - [Dual Process Theory](understanding_human_decision_making/dual_process_theory.md)
 
 ### Buzzwords to Lookout for
@@ -26,54 +28,58 @@
 ### Changing User's Behavior
 
 - [Support Conscious Action](behavior_change_strategies/support_conscious_action.md)
-  - [Educate and Encourage User](behavior_change_strategies/educate_and_encourage_user.md)
-  - [Help User think about Their Action](behavior_change_strategies/help_user_think_about_their_action.md)
+  - [Educate and Encourage User](behavior_change_strategies/educate_encourage_user.md)
+  - [Help User think about Their Action](behavior_change_strategies/help_user_think_about_action.md)
 - [Cheating](behavior_change_strategies/cheating.md)
   - [Defaulting](behavior_change_strategies/defaulting.md)
   - [Make it Incidental](behavior_change_strategies/make_it_incidental.md)
-  - [Automate the Act of Repetition](behavior_change_strategies/automate_the_act_of_repetition.md)
-- [Make or Change Habbits](behavior_change_strategies/make_or_change_habbits.md)
+  - [Automate the Act of Repetition](behavior_change_strategies/automate_act_repetition.md)
+- [Make or Change Habbits](behavior_change_strategies/make_change_habbits.md)
   - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
   - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
 ### New Behavior - Existing Behavior
 
-- [Help User Avoiding the Cue](behavior_change_strategies/help_user_avoiding_the_cue.md)
-- [Replace the Routine](behavior_change_strategies/replace_the_routine.md)
-- [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_to_interfere.md)
-- [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_to_avoid_acting_on_the_cue.md)
-- [Crowd Out Old Habit with New Behavior](behavior_change_strategies/crowd_out_old_habit_with_new_behavior.md)
+- [Help User Avoiding the Cue](behavior_change_strategies/help_user_avoiding_cue.md)
+- [Replace the Routine](behavior_change_strategies/replace_routine.md)
+- [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_interfere.md)
+- [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_avoid_acting_cue.md)
+- [Crowd Out Old Habit with New Behavior](behavior_change_strategies/crowd_out_old_habit_new_behavior.md)
 
 ### Making Users Addicted
 
 - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
 - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
-## [Understanding the Product](understanding_the_product/understanding_the_product.md)
+---
+
+## [Understanding the Product](understanding_product/understanding_product.md)
 
 ### Business Model
 
 #### Existing Business Model
 
-- [Business Model Canvas](understanding_the_product/business_model_canvas.md)
-- [Lean Canvas](understanding_the_product/lean_canvas.md)
+- [Business Model Canvas](understanding_product/business_model_canvas.md)
+- [Lean Canvas](understanding_product/lean_canvas.md)
 
 #### New Business Model
 
-- [Business Model Inspirator](understanding_the_product/business_model_inspirator.md)
-- [Competitor Analysis](understanding_the_product/competitor_analysis.md)
-- [Five Forces Model](understanding_the_product/five_forces_model.md)
-- [SWOT Analysis](understanding_the_product/swot_analysis.md)
+- [Business Model Inspirator](understanding_product/business_model_inspirator.md)
+- [Competitor Analysis](understanding_product/competitor_analysis.md)
+- [Five Forces Model](understanding_product/five_forces_model.md)
+- [SWOT Analysis](understanding_product/swot_analysis.md)
   
 ### Clarify Product
 
-- [Target Outcome](understanding_the_product/target_outcome.md)
-- [Target Actor](understanding_the_product/target_actor.md)
-- [Target Action](understanding_the_product/target_action.md)
+- [Target Outcome](understanding_product/target_outcome.md)
+- [Target Actor](understanding_product/target_actor.md)
+- [Target Action](understanding_product/target_action.md)
 
 ### Define Target Users
 
-- [Create User Personas](understanding_the_product/create_user_personas.md)
+- [Create User Personas](understanding_product/create_user_personas.md)
+
+---
 
 ## [Conceptual Design](conceptual_design/conceptual_design.md)
 
