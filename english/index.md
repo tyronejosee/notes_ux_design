@@ -1,7 +1,5 @@
 # Index
 
----
-
 ## [Understanding Human Decision Making](understanding_human_decision_making/understanding_human_decision_making.md)
 
 **Frameworks:**
@@ -51,23 +49,19 @@
 - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
 - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
----
-
 ## [Understanding the Product](understanding_product/understanding_product.md)
 
 **Business Model:**
 
 - **Existing Business Model:**
-
-- [Business Model Canvas](understanding_product/business_model_canvas.md)
-- [Lean Canvas](understanding_product/lean_canvas.md)
+  - [Business Model Canvas](understanding_product/business_model_canvas.md)
+  - [Lean Canvas](understanding_product/lean_canvas.md)
 
 - **New Business Model:**
-
-- [Business Model Inspirator](understanding_product/business_model_inspirator.md)
-- [Competitor Analysis](understanding_product/competitor_analysis.md)
-- [Five Forces Model](understanding_product/five_forces_model.md)
-- [SWOT Analysis](understanding_product/swot_analysis.md)
+  - [Business Model Inspirator](understanding_product/business_model_inspirator.md)
+  - [Competitor Analysis](understanding_product/competitor_analysis.md)
+  - [Five Forces Model](understanding_product/five_forces_model.md)
+  - [SWOT Analysis](understanding_product/swot_analysis.md)
   
 **Clarify Product:**
 
@@ -78,8 +72,6 @@
 **Define Target Users:**
 
 - [Create User Personas](understanding_product/create_user_personas.md)
-
----
 
 ## [Conceptual Design](conceptual_design/conceptual_design.md)
 
@@ -101,8 +93,6 @@
 - [Simple Flowchart](conceptual_design/simple_flowchart.md)
 - [Event-Driven Process Chain Model (EPC)](conceptual_design/event_driven_process_chain_model_epc.md)
 - [Business Process Model and Notation (BPMN)](conceptual_design/business_process_model_notation_bpmn.md)
-
----
 
 ## [ProtoTyping](prototyping/prototyping.md)
 
@@ -134,8 +124,6 @@
 - [Social Sharing](prototyping/social_sharing.md)
 - [Goal Trackers](prototyping/goal_trackers.md)
 - [Tutorials](prototyping/tutorials.md)
-
----
 
 ## [UX Best Practices](ux_best_practices/ux_best_practices.md)
 
@@ -175,8 +163,6 @@
 - [Default Everything](ux_best_practices/default_everything.md)
 - [Lessen the Burden of Action/Info.](ux_best_practices/lessen_burden_action_info.md)
 - [Deploy Peer Comparisons](ux_best_practices/deploy_peer_comparisons.md)
-
----
 
 ## [Measuring the Impact](measuring_impact/measuring_impact.md)
 
