@@ -33,21 +33,16 @@
   - [Hacerlo Incidental](estrategias_cambio_comportamiento/hacerlo_incidental.md)
   - [Automatizar el Acto de Repetición](estrategias_cambio_comportamiento/automatizar_acto_repeticion.md)
 - [Crear o Cambiar Hábitos](estrategias_cambio_comportamiento/crear_cambiar_habitos.md)
-  - [Modelo del Gancho de Nir Eyal](estrategias_cambio_comportamiento/modelo_enganche_nir_eyal.md)
-  - [Modelo de Estímulo Rutina Recompensa](estrategias_cambio_comportamiento/modelo_estimulo_rutina_recompensa.md)
+  - **Comportamiento Nuevo - Comportamiento Existente:**
+    - [Ayudar al Usuario a Evitar el Estímulo](estrategias_cambio_comportamiento/ayudar_usuario_evitar_estimulo.md)
+    - [Reemplazar la Rutina](estrategias_cambio_comportamiento/reemplazar_rutina.md)
+    - [Usar la Conciencia para Interferir](estrategias_cambio_comportamiento/utiliza_conciencia_intervenir.md)
+    - [Atención Plena para Evitar Actuar según el Estímulo](estrategias_cambio_comportamiento/atencion_plena_evitar_actuar_ante_estimulo.md)
+    - [Desplazar el Viejo Hábito con un Nuevo Comportamiento](estrategias_cambio_comportamiento/desplazar_viejos_habitos_nuevos_comportamientos.md)
 
-**Comportamiento Nuevo - Comportamiento Existente:**
-
-- [Ayudar al Usuario a Evitar el Estímulo](estrategias_cambio_comportamiento/ayudar_usuario_evitar_estimulo.md)
-- [Reemplazar la Rutina](estrategias_cambio_comportamiento/reemplazar_rutina.md)
-- [Usar la Conciencia para Interferir](estrategias_cambio_comportamiento/utiliza_conciencia_intervenir.md)
-- [Atención Plena para Evitar Actuar según el Estímulo](estrategias_cambio_comportamiento/atencion_plena_evitar_actuar_ante_estimulo.md)
-- [Desplazar el Viejo Hábito con un Nuevo Comportamiento](estrategias_cambio_comportamiento/desplazar_viejos_habitos_nuevos_comportamientos.md)
-
-**Crear Adicción en los Usuarios:**
-
-- [Modelo del Gancho de Nir Eyal](estrategias_cambio_comportamiento/modelo_enganche_nir_eyal.md)
-- [Modelo de Estímulo Rutina Recompensa](estrategias_cambio_comportamiento/modelo_estimulo_rutina_recompensa.md)
+  - **Crear Adicción en los Usuarios:**
+    - [Modelo del Gancho de Nir Eyal](estrategias_cambio_comportamiento/modelo_enganche_nir_eyal.md)
+    - [Modelo de Estímulo Rutina Recompensa](estrategias_cambio_comportamiento/modelo_estimulo_rutina_recompensa.md)
 
 ## [Comprendiendo el Producto](comprendiendo_producto/comprendiendo_producto.md)
 
@@ -105,25 +100,24 @@
 - [Sketch](prototipado/sketch.md)
 - [Balsamiq](prototipado/balsamiq.md)
 
-### Patrones de UX
+**Patrones de UX:**
 
-**Cuando la Atención es Escasa y Efímera:**
+- **Cuando la Atención es Escasa y Efímera:**
+  - [Recordatorios Simples y Estímulos de Planificación](prototipado/recordatorios_simples_estimulos_planificacion.md)
+  - [Informes de Estado](prototipado/informes_estado.md)
+  - [Consejos sobre Cómo Hacerlo](prototipado/consejos_guias.md)
+  - [Llamada a la Acción](prototipado/llamada_accion.md)
 
-- [Recordatorios Simples y Estímulos de Planificación](prototipado/recordatorios_simples_estimulos_planificacion.md)
-- [Informes de Estado](prototipado/informes_estado.md)
-- [Consejos sobre Cómo Hacerlo](prototipado/consejos_guias.md)
-- [Llamada a la Acción](prototipado/llamada_accion.md)
+- **Cuando tienes muchas oportunidades para influir en el usuario:**
 
-**Cuando tienes muchas oportunidades para influir en el usuario:**
-
-- [Apoyo en la Toma de Decisiones](prototipado/soporte_toma_decisiones.md)
-- [Juegos de Cambio de Comportamiento](prototipado/juegos_cambio_comportamiento.md)
-- [Gamificación](prototipado/gamificacion.md)
-- [Planificadores](prototipado/planificadores.md)
-- [Recordatorios](prototipado/recordatorios.md)
-- [Compartir en Redes Sociales](prototipado/compartir_redes_sociales.md)
-- [Seguimiento de Objetivos](prototipado/rastreadores_objetivos.md)
-- [Tutoriales](prototipado/tutoriales.md)
+  - [Apoyo en la Toma de Decisiones](prototipado/soporte_toma_decisiones.md)
+  - [Juegos de Cambio de Comportamiento](prototipado/juegos_cambio_comportamiento.md)
+  - [Gamificación](prototipado/gamificacion.md)
+  - [Planificadores](prototipado/planificadores.md)
+  - [Recordatorios](prototipado/recordatorios.md)
+  - [Compartir en Redes Sociales](prototipado/compartir_redes_sociales.md)
+  - [Seguimiento de Objetivos](prototipado/rastreadores_objetivos.md)
+  - [Tutoriales](prototipado/tutoriales.md)
 
 ## [Mejores Prácticas de UX](mejores_practicas_ux/mejores_practicas_ux.md)
 

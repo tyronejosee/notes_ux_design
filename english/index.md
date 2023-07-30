@@ -28,26 +28,23 @@
 - [Support Conscious Action](behavior_change_strategies/support_conscious_action.md)
   - [Educate and Encourage User](behavior_change_strategies/educate_encourage_user.md)
   - [Help User think about Their Action](behavior_change_strategies/help_user_think_about_action.md)
+
 - [Cheating](behavior_change_strategies/cheating.md)
   - [Defaulting](behavior_change_strategies/defaulting.md)
   - [Make it Incidental](behavior_change_strategies/make_it_incidental.md)
   - [Automate the Act of Repetition](behavior_change_strategies/automate_act_repetition.md)
+
 - [Make or Change Habbits](behavior_change_strategies/make_change_habbits.md)
-  - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
-  - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
+  - **New Behavior - Existing Behavior:**
+    - [Help User Avoiding the Cue](behavior_change_strategies/help_user_avoiding_cue.md)
+    - [Replace the Routine](behavior_change_strategies/replace_routine.md)
+    - [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_interfere.md)
+    - [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_avoid_acting_cue.md)
+    - [Crowd Out Old Habit with New Behavior](behavior_change_strategies/crowd_out_old_habit_new_behavior.md)
 
-**New Behavior - Existing Behavior:**
-
-- [Help User Avoiding the Cue](behavior_change_strategies/help_user_avoiding_cue.md)
-- [Replace the Routine](behavior_change_strategies/replace_routine.md)
-- [Use Consciousness to Interfere](behavior_change_strategies/use_consciousness_interfere.md)
-- [Mindfulness to Avoid Acting on the Cue](behavior_change_strategies/mindfulness_avoid_acting_cue.md)
-- [Crowd Out Old Habit with New Behavior](behavior_change_strategies/crowd_out_old_habit_new_behavior.md)
-
-**Making Users Addicted:**
-
-- [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
-- [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
+  - **Making Users Addicted:**
+    - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
+    - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
 ## [Understanding the Product](understanding_product/understanding_product.md)
 
@@ -105,25 +102,23 @@
 - [Sketch](prototyping/sketch.md)
 - [Balsamiq](prototyping/balsamiq.md)
 
-## UX Patterns
+**UX Patterns:**
 
-**When Attention is Fleeting and Scarce:**
+- **When Attention is Fleeting and Scarce:**
+  - [Simple Reminders and Planning Prompts](prototyping/simple_reminders_planning_prompts.md)
+  - [Status Reports](prototyping/status_reports.md)
+  - [How-to-Tips](prototyping/how_tips.md)
+  - [Call to Action](prototyping/call_action.md)
 
-- [Simple Reminders and Planning Prompts](prototyping/simple_reminders_planning_prompts.md)
-- [Status Reports](prototyping/status_reports.md)
-- [How-to-Tips](prototyping/how_tips.md)
-- [Call to Action](prototyping/call_action.md)
-
-**When yo have many opportunities to Influence User:**
-
-- [Decision-Making Support](prototyping/decision_making_support.md)
-- [Behavior Change Games](prototyping/behavior_change_games.md)
-- [Gamification](prototyping/gamification.md)
-- [Planners](prototyping/planners.md)
-- [Reminders](prototyping/reminders.md)
-- [Social Sharing](prototyping/social_sharing.md)
-- [Goal Trackers](prototyping/goal_trackers.md)
-- [Tutorials](prototyping/tutorials.md)
+- **When yo have many opportunities to Influence User:**
+  - [Decision-Making Support](prototyping/decision_making_support.md)
+  - [Behavior Change Games](prototyping/behavior_change_games.md)
+  - [Gamification](prototyping/gamification.md)
+  - [Planners](prototyping/planners.md)
+  - [Reminders](prototyping/reminders.md)
+  - [Social Sharing](prototyping/social_sharing.md)
+  - [Goal Trackers](prototyping/goal_trackers.md)
+  - [Tutorials](prototyping/tutorials.md)
 
 ## [UX Best Practices](ux_best_practices/ux_best_practices.md)
 
