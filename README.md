@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Roadmap: UX Design <br>Available as basic SVG icons and via first-party <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
+  Roadmap: UX Design <br>Una ruta guía con los conceptos clave para adentrarse al mundo del Diseño UX.
 <p>
 
 <p align="center">
