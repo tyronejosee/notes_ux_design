@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://heroicons.com/#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="Heroicons" width="300">
+  <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-light-mode-only" target="_blank">
+    <img src="./.github/logo-light.svg" alt="Pruebas" width="300">
   </a>
-  <a href="https://heroicons.com/#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="Heroicons" width="300">
+  <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-dark-mode-only" target="_blank">
+    <img src="./.github/logo-dark.svg" alt="Pruebas" width="300">
   </a>
 </p>
 
