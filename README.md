@@ -1,9 +1,20 @@
-# Roadmap: UX Design
+<p align="center">
+  <a href="https://heroicons.com/#gh-light-mode-only" target="_blank">
+    <img src="./.github/logo-light.svg" alt="Heroicons" width="300">
+  </a>
+  <a href="https://heroicons.com/#gh-dark-mode-only" target="_blank">
+    <img src="./.github/logo-dark.svg" alt="Heroicons" width="300">
+  </a>
+</p>
 
-![Visual](resources/visual.svg)
+<p align="center">
+  Roadmap: UX Design <br>Available as basic SVG icons and via first-party <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
+<p>
 
-[![Estado del repositorio](https://img.shields.io/badge/Estado-Activo-brightgreen.svg)](https://github.com/tyronejosee/roadmap_ux_design)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+    <a href="https://github.com/tailwindlabs/heroicons/releases"><img src="https://img.shields.io/npm/v/heroicons" alt="Latest Release"></a>
+    <a href="https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/heroicons.svg" alt="License"></a>
+</p>
 
 ## ¿Qué es el Diseño UX?
 
