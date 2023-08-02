@@ -1,19 +1,20 @@
 <p align="center">
   <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="Pruebas" width="300">
+    <img src="./.github/logo-light.svg" alt="logo-light" width="300">
   </a>
   <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="Pruebas" width="300">
+    <img src="./.github/logo-dark.svg" alt="logo-dark" width="300">
   </a>
 </p>
 
 <p align="center">
-  Roadmap: UX Design <br>Una ruta guía con los conceptos clave para adentrarse al mundo del Diseño UX.
+  Roadmap: UX Design <br>
+  Una ruta guía con los conceptos clave para adentrarse al mundo del Diseño UX.
 <p>
 
 <p align="center">
-    <a href="https://github.com/tailwindlabs/heroicons/releases"><img src="https://img.shields.io/npm/v/heroicons" alt="Latest Release"></a>
-    <a href="https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/heroicons.svg" alt="License"></a>
+    <a href="#"><img src="https://img.shields.io/badge/contributions-yes-blue" alt="Contruibutions"></a>
+    <a href="#"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
 ## ¿Qué es el Diseño UX?
@@ -27,7 +28,14 @@ El mundo del diseño de experiencias no es tan sencillo como parece, ya que quie
 Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la siguiente lista de contenidos. Ten presente que esta información es solo un punto de partida, es crucial que sigas investigando por tu cuenta para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
 **Haz Clic Aquí:**
-[![Index](resources/bottom_index.svg)](espanol/index.md)
+
+
+
+https://img.shields.io/badge/tabla%20de%20contenidos-yellow
+
+<p align="center">
+  [![Index](resources/bottom_index.svg)](espanol/index.md)
+</p>
 
 ## Notas del Autor
 
