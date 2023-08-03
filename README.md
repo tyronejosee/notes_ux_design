@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/contributions-yes-blue" alt="Contruibutions"></a>
-    <a href="#"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
+    <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
 ## ¿Qué es el Diseño UX?
