@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-light-mode-only" target="_blank">
+  <a href="https://github.com/tyronejosee/docs_ux_design#gh-light-mode-only" target="_blank">
     <img src="./.github/logo-light.svg" alt="logo-light" width="300">
   </a>
-  <a href="https://github.com/tyronejosee/roadmap_ux_design#gh-dark-mode-only" target="_blank">
+  <a href="https://github.com/tyronejosee/docs_ux_design#gh-dark-mode-only" target="_blank">
     <img src="./.github/logo-dark.svg" alt="logo-dark" width="300">
   </a>
 </p>
@@ -28,11 +28,11 @@ El mundo del diseño de experiencias no es tan sencillo como parece, ya que quie
 Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la siguiente lista de contenidos. Ten presente que esta información es solo un punto de partida, es crucial que sigas investigando por tu cuenta para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
 <p align="center">
-  <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/tabla%20de%20contenidos-red" alt="logo-light" width="300">
+  <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
+    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="300">
   </a>
-  <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/tabla%20de%20contenidos-yellow" alt="logo-dark" width="300">
+  <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
+    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="300">
   </a>
 </p>
 
