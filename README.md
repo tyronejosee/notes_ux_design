@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_ux_design#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="logo-light" width="300">
+    <img src="./.github/logo-light.svg" alt="logo-light" width="400">
   </a>
   <a href="https://github.com/tyronejosee/docs_ux_design#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="logo-dark" width="300">
+    <img src="./.github/logo-dark.svg" alt="logo-dark" width="400">
   </a>
 </p>
 
 <p align="center">
-  Roadmap: UX Design <br>
-  Conceptos claves que debes considerar.
+  Docs: UX Design <br>
+  Info y conceptos claves que debes considerar.
 <p>
 
 <p align="center">
@@ -25,26 +25,27 @@ En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es p
 
 El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
-Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la siguiente lista de contenidos. Ten presente que esta información es solo un punto de partida, es crucial que sigas investigando por tu cuenta para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
+Te invito a explorar detenidamente la siguiente lista de contenidos `ìndex`.
 
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
-    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="300">
+    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="60">
   </a>
   <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
-    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="300">
+    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="60">
   </a>
 </p>
 
 ## Notas del Autor
 
-Este repositorio tiene como objetivo proporcionar información clara de diversas fuentes y facilitar el acceso a personas hispanohablantes. Está diseñado tanto como un recurso educativo y de consulta para el beneficio de cualquier persona que lo necesite.
+Este repositorio fue creado como una recopilación de recursos que han sido de gran utilidad en mi trayectoria profesional. Esta colección está basada en documentación confiable y solida que he encontrado a lo largo del tiempo, mucha de ella en inglés. Estaré agregando contenido según vaya encontrando que sea relevante a tema en cuestion. Espero sinceramente encuentres valor y motivación en esta información, y que te inspire a crea tus propios proyectos. Siéntete libre de explorar, utilizar este repositorio como desees.
+
+## Diseño del Repositorio
 
 - La estructura del repositorio está organizada dentro de una tabla de contenidos jerárquica.
 - Se han utilizado etiquetas de vínculos para mejorar la experiencia de búsqueda y navegación.
 - Encontrarás enlaces a recursos adicionales, que complementarán tu conocimiento.
 
-**Fuentes:**
-La información presente en este repositorio proviente del siguiente listado.
+## Enlaces de Interés
 
 - [Roadmap](https://roadmap.sh/)
