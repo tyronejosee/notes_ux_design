@@ -27,14 +27,15 @@ El mundo del diseño de experiencias no es tan sencillo como parece, ya que quie
 
 Para obtener un sólido entendimiento de estos conceptos, te invito a explorar detenidamente la siguiente lista de contenidos. Ten presente que esta información es solo un punto de partida, es crucial que sigas investigando por tu cuenta para adquirir un conocimiento más profundo y aplicable en diversas situaciones.
 
-**Haz Clic Aquí:**
-
-
-
 https://img.shields.io/badge/tabla%20de%20contenidos-yellow
 
 <p align="center">
-  [![Index](resources/bottom_index.svg)](espanol/index.md)
+  <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
+    <img src="./.github/logo-light.svg" alt="logo-light" width="300">
+  </a>
+  <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
+    <img src="./.github/logo-dark.svg" alt="logo-dark" width="300">
+  </a>
 </p>
 
 ## Notas del Autor
@@ -48,7 +49,4 @@ Este repositorio tiene como objetivo proporcionar información clara de diversas
 **Fuentes:**
 La información presente en este repositorio proviente del siguiente listado.
 
-- [Roadmap](https://roadmap.sh/)
-- [Roadmap](https://roadmap.sh/)
-- [Roadmap](https://roadmap.sh/)
 - [Roadmap](https://roadmap.sh/)
