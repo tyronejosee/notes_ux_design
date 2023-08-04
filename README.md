@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_ux_design#gh-light-mode-only" target="_blank">
-    <img src="./.github/logo-light.svg" alt="logo-light" width="400">
+    <img src="./assets/logo_light.svg" alt="logo-light" width="400">
   </a>
   <a href="https://github.com/tyronejosee/docs_ux_design#gh-dark-mode-only" target="_blank">
-    <img src="./.github/logo-dark.svg" alt="logo-dark" width="400">
+    <img src="./assets/logo_dark.svg" alt="logo-dark" width="400">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/contributions-yes-blue" alt="Contruibutions"></a>
-    <a href="https://github.com/tyronejosee/roadmap_ux_design/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
+    <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
 ## ¿Qué es el Diseño UX?
