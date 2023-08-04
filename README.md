@@ -9,7 +9,7 @@
 
 <p align="center">
   Docs: UX Design <br>
-  Info y conceptos claves que debes considerar.
+  Conceptos claves que debes considerar.
 <p>
 
 <p align="center">
@@ -25,9 +25,8 @@ En cada momento de nuestras vidas, experimentamos reacciones y emociones, y es p
 
 El mundo del diseño de experiencias no es tan sencillo como parece, ya que quienes reaccionan y experimentan emociones son las personas, seres humanos. Es precisamente ahí donde todo se complica; los seres humanos somos una especie compleja, con motivaciones, sentimientos, entornos, patrones de conducta y una serie de complejidades que nos conforman.
 
-<p align="center">
-  <h3>Haz click aquí</h3>
-</p>
+Aquí encontrarás una tabla de contenidos que necesitas conocer para comprender el diseño UX.
+
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
     <img src="./assets/buttom_index_light.svg" alt="logo-light" width="150">
@@ -39,7 +38,7 @@ El mundo del diseño de experiencias no es tan sencillo como parece, ya que quie
 
 ## Notas del Autor
 
-Este repositorio fue creado como una recopilación de recursos que han sido de gran utilidad en mi ruta educacional y profesional. Esta colección está basada en documentación confiable de multiples fuentes que he encontrado a lo largo del tiempo, mucha de ella en inglés. Estaré agregando contenido según vaya encontrando, que sean relevantes al tema en cuestion. Espero encuentres valor y uso práctico a esta información y que te inspire a crear tus propios proyectos.
+Este repositorio fue creado como una recopilación de recursos que han sido de gran utilidad en mi ruta educacional y profesional. Esta colección está basada en documentación confiable de multiples fuentes que he encontrado a lo largo del tiempo, mucha de ella en inglés u otros idiomas. Estaré agregando contenido nuevo según vaya encontrando. Espero encuentres valor y uso práctico a esta información y que te inspire a crear tus propios proyectos.
 
 ## Diseño del Repositorio
 
