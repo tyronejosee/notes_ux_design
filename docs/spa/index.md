@@ -1,6 +1,6 @@
-# Índice
+# Tabla de Contenidos
 
-## [Comprender la Toma de Decisiones Humanas](comprender_decisiones_humanas/comprender_decisiones_humanas.md)
+## [🔃 Comprender la Toma de Decisiones Humanas](comprender_decisiones_humanas/comprender_decisiones_humanas.md)
 
 **Marcos de Trabajo:**
 
@@ -17,7 +17,7 @@
 - [Ciencia del Comportamiento](comprender_decisiones_humanas/ciencia_comportamiento.md)
 - [Economía Conductual](comprender_decisiones_humanas/economia_conductual.md)
 
-## [Estrategias para el Cambio de Comportamiento](estrategias_cambio_comportamiento/estrategias_cambio_comportamiento.md)
+## [🔀 Estrategias para el Cambio de Comportamiento](estrategias_cambio_comportamiento/estrategias_cambio_comportamiento.md)
 
 **Clasificación de Comportamientos:**
 
@@ -44,7 +44,7 @@
     - [Modelo del Gancho de Nir Eyal](estrategias_cambio_comportamiento/modelo_enganche_nir_eyal.md)
     - [Modelo de Estímulo Rutina Recompensa](estrategias_cambio_comportamiento/modelo_estimulo_rutina_recompensa.md)
 
-## [Comprendiendo el Producto](comprendiendo_producto/comprendiendo_producto.md)
+## [🛒 Comprendiendo el Producto](comprendiendo_producto/comprendiendo_producto.md)
 
 **Modelo de Negocio:**
 
@@ -68,7 +68,7 @@
 
 - [Crear Personas de Usuario](comprendiendo_producto/crear_personas_usuario.md)
 
-## [Diseño Conceptual](diseno_conceptual/diseno_conceptual.md)
+## [🧠 Diseño Conceptual](diseno_conceptual/diseno_conceptual.md)
 
 **Crear Lista de Productos Pendientes:**
 
@@ -89,7 +89,7 @@
 - [Modelo de Cadena de Procesos Basado en Eventos (EPC)](diseno_conceptual/modelo_cadena_procesos_orientado_eventos_epc.md)
 - [Notación de Modelado de Procesos de Negocio (BPMN)](diseno_conceptual/modelo_notación_procesos_negocio_bpmn.md)
 
-## [Prototipado](prototipado/prototipado.md)
+## [📐 Prototipado](prototipado/prototipado.md)
 
 - [Buenas Reglas de Diseño](prototipado/buenas_reglas_diseno_distribucion.md)
 
@@ -119,7 +119,7 @@
   - [Seguimiento de Objetivos](prototipado/rastreadores_objetivos.md)
   - [Tutoriales](prototipado/tutoriales.md)
 
-## [Mejores Prácticas de UX](mejores_practicas_ux/mejores_practicas_ux.md)
+## [👥 Mejores Prácticas de UX](mejores_practicas_ux/mejores_practicas_ux.md)
 
 **Captar la Atención del Usuario:**
 
@@ -158,7 +158,7 @@
 - [Reducir la Carga de la Acción/Información](mejores_practicas_ux/aliviar_carga_acciones_informacion.md)
 - [Utilizar Comparaciones entre Pares](mejores_practicas_ux/implementar_comparaciones_entre_pares.md)
 
-## [Medir el Impacto](medir_impacto/medir_impacto.md)
+## [📈 Medir el Impacto](medir_impacto/medir_impacto.md)
 
 **Pruebas:**
 
@@ -166,4 +166,8 @@
 - [Pruebas Multivariante](medir_impacto/pruebas_multivariante.md)
 - [Recopilar Lecciones Aprendidas](medir_impacto/recopilar_lecciones_aprendidas.md)
 
-## Continue Improving the Product
+## 📰 Recursos de Interés
+
+**Páginas:**
+
+- [Roadmap](https://roadmap.sh/)

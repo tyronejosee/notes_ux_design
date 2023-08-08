@@ -1,6 +1,6 @@
 # Index
 
-## [Understanding Human Decision Making](understanding_human_decision_making/understanding_human_decision_making.md)
+## [🔃 Understanding Human Decision Making](understanding_human_decision_making/understanding_human_decision_making.md)
 
 **Frameworks:**
 
@@ -17,7 +17,7 @@
 - [Behavioral Science](understanding_human_decision_making/behavioral_science.md)
 - [Behavioral Economics](understanding_human_decision_making/behavioral_economics.md)
 
-## [Behavior Change Strategies](behavior_change_strategies/behavior_change_strategies.md)
+## [🔀 Behavior Change Strategies](behavior_change_strategies/behavior_change_strategies.md)
 
 **Classifying Behavior:**
 
@@ -46,7 +46,7 @@
     - [Nir Eyal’s Hook Model](behavior_change_strategies/nir_eyal_s_hook_model.md)
     - [Cue Routine Reward Model](behavior_change_strategies/cue_routine_reward_model.md)
 
-## [Understanding the Product](understanding_product/understanding_product.md)
+## [🛒 Understanding the Product](understanding_product/understanding_product.md)
 
 **Business Model:**
 
@@ -70,7 +70,7 @@
 
 - [Create User Personas](understanding_product/create_user_personas.md)
 
-## [Conceptual Design](conceptual_design/conceptual_design.md)
+## [🧠 Conceptual Design](conceptual_design/conceptual_design.md)
 
 **Create Product Backlog:**
 
@@ -91,7 +91,7 @@
 - [Event-Driven Process Chain Model (EPC)](conceptual_design/event_driven_process_chain_model_epc.md)
 - [Business Process Model and Notation (BPMN)](conceptual_design/business_process_model_notation_bpmn.md)
 
-## [ProtoTyping](prototyping/prototyping.md)
+## [📐 ProtoTyping](prototyping/prototyping.md)
 
 - [Good Layout Rules](prototyping/good_layout_rules.md)
 
@@ -120,7 +120,7 @@
   - [Goal Trackers](prototyping/goal_trackers.md)
   - [Tutorials](prototyping/tutorials.md)
 
-## [UX Best Practices](ux_best_practices/ux_best_practices.md)
+## [👥 UX Best Practices](ux_best_practices/ux_best_practices.md)
 
 **Getting User Attention:**
 
@@ -159,7 +159,7 @@
 - [Lessen the Burden of Action/Info.](ux_best_practices/lessen_burden_action_info.md)
 - [Deploy Peer Comparisons](ux_best_practices/deploy_peer_comparisons.md)
 
-## [Measuring the Impact](measuring_impact/measuring_impact.md)
+## [📈 Measuring the Impact](measuring_impact/measuring_impact.md)
 
 **Testing:**
 

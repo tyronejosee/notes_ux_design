@@ -45,7 +45,3 @@ Este repositorio fue creado como una recopilación de recursos que han sido de g
 - La estructura del repositorio está organizada en una tabla de contenidos.
 - Se han utilizado etiquetas de vínculos para mejorar la experiencia de búsqueda y navegación.
 - Encontrarás enlaces a recursos adicionales, que complementarán tu conocimiento.
-
-## Enlaces de Interés
-
-- [Roadmap](https://roadmap.sh/)
