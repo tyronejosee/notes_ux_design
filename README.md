@@ -29,10 +29,10 @@ Aquí encontrarás una tabla de contenidos que necesitas conocer para comprender
 
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
-    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="150">
+    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="100">
   </a>
   <a href="https://github.com/tyronejosee/docs_ux_design/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
-    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="150">
+    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="100">
   </a>
 </p>
 
