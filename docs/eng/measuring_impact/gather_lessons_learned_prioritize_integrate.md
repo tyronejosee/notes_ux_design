@@ -12,9 +12,9 @@ After gathering the lessons, it’s crucial to identify and prioritize the most 
 
 To help with prioritization, you can make use of methods such as:
 
-- Impact-Effort Matrix: Rank issues based on their potential impact on users and the effort required to resolve them.
-- MoSCoW Method: Classify issues as “Must-Have,” “Should-Have,” “Could-Have,” or “Won’t-Have.”
-- Kano Model: Identify issues that will delight users, satisfy their basic needs, or cause dissatisfaction if not addressed.
+- **Impact-Effort Matrix**: Rank issues based on their potential impact on users and the effort required to resolve them.
+- **MoSCoW Method**: Classify issues as “Must-Have,” “Should-Have,” “Could-Have,” or “Won’t-Have.”
+- **Kano Model**: Identify issues that will delight users, satisfy their basic needs, or cause dissatisfaction if not addressed.
 
 By prioritizing issues, you’ll be able to allocate the right resources and time to solve them effectively.
 

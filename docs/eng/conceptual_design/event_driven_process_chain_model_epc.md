@@ -4,9 +4,9 @@ The Event Driven Process Chain (EPC) model is a flowchart-based diagramming meth
 
 In an EPC model, events, functions, and control flow are the primary components.
 
-- **Event:** Represents a specific point in time, such as the start, end or a change in a process.
-- **Function:** Represents an action or task that needs to be performed. Functions typically connect to events and other functions within a process chain.
-- **Control Flow:** Illustrates the flow of activities in the process chain by connecting events and functions with arrows, showing the sequence of tasks.
+- **Event**: Represents a specific point in time, such as the start, end or a change in a process.
+- **Function**: Represents an action or task that needs to be performed. Functions typically connect to events and other functions within a process chain.
+- **Control Flow**: Illustrates the flow of activities in the process chain by connecting events and functions with arrows, showing the sequence of tasks.
 
 Creating an EPC model involves the following steps:
 

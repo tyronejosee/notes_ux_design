@@ -6,20 +6,20 @@ Planners are an essential aspect of UX design, helping users accomplish complex 
 
 There are a few key characteristics that define planners in UX design:
 
-- **Clear Guidance:** Planners provide clear instructions and guidance on the various steps involved, making it easier for users to navigate through the process.
-- **Progress Indicators:** Planners typically use some form of progress indicator, such as a progress bar or a checklist, to show users how far along in the process they are.
-- **Error Prevention & Handling:** Planners strive to prevent user errors by providing input validation, feedback, and clear guidelines on what needs to be done. They also handle errors effectively, allowing users to recover and move forward, without getting frustrated.
-- **Flexibility:** Planners offer users the flexibility to complete tasks at their own pace, and provide options for changing or updating information at any stage in the process.
-- **Consistency:** Planners maintain consistency in the design and presentation of information, ensuring that the user experience is familiar and predictable at all times.
+- **Clear Guidance**: Planners provide clear instructions and guidance on the various steps involved, making it easier for users to navigate through the process.
+- **Progress Indicators**: Planners typically use some form of progress indicator, such as a progress bar or a checklist, to show users how far along in the process they are.
+- **Error Prevention & Handling**: Planners strive to prevent user errors by providing input validation, feedback, and clear guidelines on what needs to be done. They also handle errors effectively, allowing users to recover and move forward, without getting frustrated.
+- **Flexibility**: Planners offer users the flexibility to complete tasks at their own pace, and provide options for changing or updating information at any stage in the process.
+- **Consistency**: Planners maintain consistency in the design and presentation of information, ensuring that the user experience is familiar and predictable at all times.
 
 ## Types of Planners
 
 There are various types of planners used in UX design, depending on the specific needs of the project:
 
-- **Decision Trees:** These provide users with a sequence of binary options, guiding them through a series of choices until they reach a specific end result.
-- **Wizards:** These are step-by-step guides that walk users through a process, presenting one question or task at a time, and only moving on once the user has completed the previous step.
-- **Task Checklists:** These provide users with a list of sub-tasks or actions they must complete in order to achieve a larger goal. Users can check-off tasks as they complete them, and see their progress towards the goal.
-- **Interactive Conversations:** These mimic a conversational interaction between the user and the system, using natural language processing to guide users through tasks or decision-making processes.
+- **Decision Trees**: These provide users with a sequence of binary options, guiding them through a series of choices until they reach a specific end result.
+- **Wizards**: These are step-by-step guides that walk users through a process, presenting one question or task at a time, and only moving on once the user has completed the previous step.
+- **Task Checklists**: These provide users with a list of sub-tasks or actions they must complete in order to achieve a larger goal. Users can check-off tasks as they complete them, and see their progress towards the goal.
+- **Interactive Conversations**: These mimic a conversational interaction between the user and the system, using natural language processing to guide users through tasks or decision-making processes.
 
 ## Implementing Planners
 

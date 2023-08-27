@@ -4,18 +4,18 @@ A **Call to Action (CTA)** is a UX pattern that encourages users to take a spe
 
 ## Importance of Call to Action
 
-- **Increased Conversion Rates:** A well-placed and well-designed CTA can significantly increase conversion rates, leading to more sign-ups, purchases, or other desired user actions.
-- **Guides User Behavior:** CTAs help to guide users through the flow of your product, and can assist in providing a clear and concise user journey.
-- **Highlighting Key Features:** A strong CTA can bring attention to key features or important information that you want your users to notice and engage with.
+- **Increased Conversion Rates**: A well-placed and well-designed CTA can significantly increase conversion rates, leading to more sign-ups, purchases, or other desired user actions.
+- **Guides User Behavior**: CTAs help to guide users through the flow of your product, and can assist in providing a clear and concise user journey.
+- **Highlighting Key Features**: A strong CTA can bring attention to key features or important information that you want your users to notice and engage with.
 
 ## Designing an Effective Call to Action
 
 To create an effective CTA, consider the following factors:
 
-- **Placement:** The placement of a CTA is crucial to its effectiveness. It should be easily noticeable and accessible without overwhelming or distracting users. In most cases, placing CTAs above the fold (the portion of the website visible without scrolling) has proven to be effective.
-- **Size and Shape:** The size and shape of a CTA should be consistent with the overall design of your product. Make sure it is large enough to be easily noticed, but not too large that it overwhelms other content.
-- **Color and Contrast:** Choose a color for your CTA that stands out from the rest of your design. High contrast between the CTA button and its surrounding elements can make it more noticeable and draw attention.
-- **Clear and Concise Copy:** The text on your CTA should be clear, concise, and tell users exactly what to expect when they click on it. Use action-oriented language like “Sign Up,” “Learn More,” or “Start Now” to encourage users to take action.
+- **Placement**: The placement of a CTA is crucial to its effectiveness. It should be easily noticeable and accessible without overwhelming or distracting users. In most cases, placing CTAs above the fold (the portion of the website visible without scrolling) has proven to be effective.
+- **Size and Shape**: The size and shape of a CTA should be consistent with the overall design of your product. Make sure it is large enough to be easily noticed, but not too large that it overwhelms other content.
+- **Color and Contrast**: Choose a color for your CTA that stands out from the rest of your design. High contrast between the CTA button and its surrounding elements can make it more noticeable and draw attention.
+- **Clear and Concise Copy**: The text on your CTA should be clear, concise, and tell users exactly what to expect when they click on it. Use action-oriented language like “Sign Up,” “Learn More,” or “Start Now” to encourage users to take action.
 
 ## CTA Best Practices
 

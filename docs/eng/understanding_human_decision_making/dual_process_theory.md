@@ -16,10 +16,10 @@ The Dual Process Theory is a psychological concept that suggests that human thin
 
 In order to create user experiences that cater to both System 1 and System 2 thinking, UX designers should:
 
-- **Make Tasks Simple and Intuitive:** Reduce cognitive load by simplifying tasks, using familiar patterns, and providing clear instructions.
-- **Provide Visual Cues:** Use visual cues such as icons, colors, and typography to guide users through tasks, while promoting clarity and efficiency.
-- **Minimize Errors:** Design systems that help prevent errors by using constraints, providing feedback, and allowing users to undo their actions.
-- **Accommodate Different Thinking Styles:** Recognize that different users may approach tasks using different cognitive styles, and design experiences that cater to a range of preferences.
-- **Test and Iterate:** Continuously test your designs with real users, and iterate based on their feedback to ensure that your designs are catering to both System 1 and System 2 thinking.
+- **Make Tasks Simple and Intuitive**: Reduce cognitive load by simplifying tasks, using familiar patterns, and providing clear instructions.
+- **Provide Visual Cues**: Use visual cues such as icons, colors, and typography to guide users through tasks, while promoting clarity and efficiency.
+- **Minimize Errors**: Design systems that help prevent errors by using constraints, providing feedback, and allowing users to undo their actions.
+- **Accommodate Different Thinking Styles**: Recognize that different users may approach tasks using different cognitive styles, and design experiences that cater to a range of preferences.
+- **Test and Iterate**: Continuously test your designs with real users, and iterate based on their feedback to ensure that your designs are catering to both System 1 and System 2 thinking.
 
 By understanding the Dual Process Theory and designing for both types of cognitive processing, UX designers can create user experiences that are both delightful and efficient, ultimately leading to higher user satisfaction and engagement.

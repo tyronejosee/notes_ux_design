@@ -6,21 +6,21 @@ Cognitive overhead refers to the mental effort needed to understand or operate a
 
 A clutter-free, clean, and easy-to-navigate design is always a good starting point. In order to keep cognitive overhead to a minimum, focus on simplifying both the interface and the content:
 
-- **Utilize White Space:** By providing ample space between functional elements, you make it easier for users to scan and process the interface.
-- **Reduce the Number of Options:** Offering too many choices can overwhelm users or cause them to second-guess their decisions. Aim for a balance of ease and functionality.
+- **Utilize White Space**: By providing ample space between functional elements, you make it easier for users to scan and process the interface.
+- **Reduce the Number of Options**: Offering too many choices can overwhelm users or cause them to second-guess their decisions. Aim for a balance of ease and functionality.
 
 ## 2. Establish a Clear Hierarchy
 
 A well-structured hierarchy helps users navigate your design and understand the relationship between elements. This reduces cognitive overhead as users don’t have to work hard to make sense of the interface:
 
-- **Organize Content Logically:** Group related items together and place them in a consistent order.
-- **Use Size, Color, and Typography Effectively:** Make important information stand out and use visual cues to indicate less important elements.
+- **Organize Content Logically**: Group related items together and place them in a consistent order.
+- **Use Size, Color, and Typography Effectively**: Make important information stand out and use visual cues to indicate less important elements.
 
 ## 3. Provide Clear & Concise Instructions
 
 Your design should guide users effortlessly, which can be achieved by providing clear directions or prompts:
 
-- **Use Actionable Language:** Be precise and direct with your wording, and avoid using jargon.
-- **Offer Visual Cues & Feedback:** Include well-placed icons, highlighted sections, or animation to support the user’s actions and indicate the outcome of those actions.
+- **Use Actionable Language**: Be precise and direct with your wording, and avoid using jargon.
+- **Offer Visual Cues & Feedback**: Include well-placed icons, highlighted sections, or animation to support the user’s actions and indicate the outcome of those actions.
 
 In summary, reducing cognitive overhead in your UX design is essential to create an efficient and user-friendly experience. Adopt a simple and clean design, establish a clear hierarchy, and provide helpful instructions to ensure more favorable conscious evaluations from your users.

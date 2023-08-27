@@ -6,12 +6,12 @@ A **Custom Experience Map** is a powerful visual representation that helps des
 
 Below are some crucial components of an effective custom experience map:
 
-- **User Persona:** This includes the demographics, goals, and pain-points of the target user, which helps in understanding the user’s perspective throughout the journey.
-- **Stages:** The different logical steps or phases the user goes through during their interaction with the product or service.
-- **Touchpoints:** These are the specific interactions the user has with the product or service, such as clicking a button, opening an app, or talking to a customer representative.
-- **Channels:** These refer to the mediums or platforms through which the interactions take place, such as website, mobile app, email, or in-person.
-- **Emotions:** The emotional state of the user during each touchpoint, which can highlight areas of frustration or delight.
-- **Opportunities:** Areas where improvements can be made, new features can be introduced, or further research can be conducted to enhance the overall user experience.
+- **User Persona**: This includes the demographics, goals, and pain-points of the target user, which helps in understanding the user’s perspective throughout the journey.
+- **Stages**: The different logical steps or phases the user goes through during their interaction with the product or service.
+- **Touchpoints**: These are the specific interactions the user has with the product or service, such as clicking a button, opening an app, or talking to a customer representative.
+- **Channels**: These refer to the mediums or platforms through which the interactions take place, such as website, mobile app, email, or in-person.
+- **Emotions**: The emotional state of the user during each touchpoint, which can highlight areas of frustration or delight.
+- **Opportunities**: Areas where improvements can be made, new features can be introduced, or further research can be conducted to enhance the overall user experience.
 
 ## Benefits of a Custom Experience Map
 

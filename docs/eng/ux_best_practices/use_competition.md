@@ -6,9 +6,9 @@ Utilizing competition in UX design can lead to more engaging and motivating user
 
 It is crucial to determine which competitive elements are suitable for your target audience and the nature of your product. For example:
 
-- **Leaderboards:** Show rankings of top users based on points or achievements, encouraging users to climb higher in rankings.
-- **Badges and Awards:** Recognize users’ achievements by awarding virtual trophies or badges for completing specific tasks.
-- **Challenges:** Set up periodic or one-time events where users need to complete a task within a certain timeframe to win prizes.
+- **Leaderboards**: Show rankings of top users based on points or achievements, encouraging users to climb higher in rankings.
+- **Badges and Awards**: Recognize users’ achievements by awarding virtual trophies or badges for completing specific tasks.
+- **Challenges**: Set up periodic or one-time events where users need to complete a task within a certain timeframe to win prizes.
 
 ## Balance Competition with Collaboration
 

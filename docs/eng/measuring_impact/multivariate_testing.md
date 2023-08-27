@@ -8,15 +8,15 @@ In a multivariate test, several design variations are presented to different gro
 
 ## Key Advantages
 
-- **Optimization:** Multivariate testing enables designers to optimize their designs by identifying the best-performing variations for each element. This ultimately leads to improved overall performance of the user interface.
-- **Increased Confidence:** By comparing multiple design elements simultaneously, designers can gather data-driven insights to make informed decisions, increasing confidence in their design choices.
-- **Efficiency:** Multivariate testing enables designers to test several elements in a single test. This saves time, effort, and resources compared to testing each element individually.
+- **Optimization**: Multivariate testing enables designers to optimize their designs by identifying the best-performing variations for each element. This ultimately leads to improved overall performance of the user interface.
+- **Increased Confidence**: By comparing multiple design elements simultaneously, designers can gather data-driven insights to make informed decisions, increasing confidence in their design choices.
+- **Efficiency**: Multivariate testing enables designers to test several elements in a single test. This saves time, effort, and resources compared to testing each element individually.
 
 ## When to Use Multivariate Testing
 
-- **Complex Designs or High Traffic:** Multivariate testing is particularly suitable for complex designs with multiple combinations, or situations when the design is expected to generate high traffic.
-- **Confirming Best-Performing Variations:** When simplistic A/B testing does not provide enough information to determine which variation is the best, multivariate testing can provide deeper insights.
-- **When Hypotheses are Uncertain:** If you’re unsure which design element is responsible for driving desired user behavior, a multivariate test can provide valuable information to guide your design decisions.
+- **Complex Designs or High Traffic**: Multivariate testing is particularly suitable for complex designs with multiple combinations, or situations when the design is expected to generate high traffic.
+- **Confirming Best-Performing Variations**: When simplistic A/B testing does not provide enough information to determine which variation is the best, multivariate testing can provide deeper insights.
+- **When Hypotheses are Uncertain**: If you’re unsure which design element is responsible for driving desired user behavior, a multivariate test can provide valuable information to guide your design decisions.
 
 ## Things to Consider
 

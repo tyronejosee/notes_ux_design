@@ -4,16 +4,16 @@ Avoiding direct payments is a crucial aspect of UX design that can lead to favor
 
 ## Why it Matters?
 
-- **Trust-Building:** When users are not asked to pay upfront or have no hidden costs, they are more likely to trust your product or service, increasing the likelihood of loyal customers.
-- **Accessibility:** Making your offerings available without direct payments ensures a larger and more diverse audience can experience the value your product provides, which can lead to increased traffic and eventual conversions.
-- **Reduced Churn:** Users who do not feel “locked-in” by having to pay upfront are less likely to abandon your product or service in search of alternative solutions.
+- **Trust-Building**: When users are not asked to pay upfront or have no hidden costs, they are more likely to trust your product or service, increasing the likelihood of loyal customers.
+- **Accessibility**: Making your offerings available without direct payments ensures a larger and more diverse audience can experience the value your product provides, which can lead to increased traffic and eventual conversions.
+- **Reduced Churn**: Users who do not feel “locked-in” by having to pay upfront are less likely to abandon your product or service in search of alternative solutions.
 
 ## Strategies to Avoid Direct Payments
 
-- **Offer a Free Trial:** Provide users with a limited-time free trial of your product or service to showcase its value and encourage them to invest once the trial is over.
-- **Freemium Model:** Allow users to access basic features of your product for free, while offering premium features at a cost. This model lets users experience your offerings without having to pay upfront and gives them the option to upgrade if they find value in it.
-- **In-app Purchases:** Incorporate in-app purchases within your product, which enables users to access premium features and benefits without being forced to pay upfront.
-- **Subscriptions:** Offer subscriptions as an alternative payment method that allows users to access premium features and receive updates frequently, creating a sense of loyalty and commitment.
-- **Pay-as-you-go or Usage-based Pricing:** Implement a flexible pricing model where users only pay for what they use or when they use a specific feature, removing the barrier of direct payments and increasing user satisfaction.
+- **Offer a Free Trial**: Provide users with a limited-time free trial of your product or service to showcase its value and encourage them to invest once the trial is over.
+- **Freemium Model**: Allow users to access basic features of your product for free, while offering premium features at a cost. This model lets users experience your offerings without having to pay upfront and gives them the option to upgrade if they find value in it.
+- **In-app Purchases**: Incorporate in-app purchases within your product, which enables users to access premium features and benefits without being forced to pay upfront.
+- **Subscriptions**: Offer subscriptions as an alternative payment method that allows users to access premium features and receive updates frequently, creating a sense of loyalty and commitment.
+- **Pay-as-you-go or Usage-based Pricing**: Implement a flexible pricing model where users only pay for what they use or when they use a specific feature, removing the barrier of direct payments and increasing user satisfaction.
 
 By avoiding direct payments and implementing these strategies, a UX designer can create a user experience that fosters trust, accessibility, and user engagement. By doing so, you increase the likelihood of gaining favorable conscious evaluations of your product, ultimately leading to long-term success.

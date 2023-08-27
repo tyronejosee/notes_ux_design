@@ -6,15 +6,15 @@ Prototyping is a crucial stage in the UX design process, where designers create 
 
 Low-fidelity prototypes are simple, rough representations of the design that focus on the overall structure and main functionalities. They are fast to create and allow designers to quickly test ideas and gather user feedback. Examples include:
 
-- Paper sketches: Drawings made on paper that convey the basic layout and structure of the interface.
-- Wireframes: Simple digital representations of the user interface, showing the placement of elements without any visual styling.
+- **Paper sketches**: Drawings made on paper that convey the basic layout and structure of the interface.
+- **Wireframes**: Simple digital representations of the user interface, showing the placement of elements without any visual styling.
 
 ## High-Fidelity Prototyping
 
 High-fidelity prototypes are more detailed and interactive, closely resembling the final product. They include the visual design, animations, and interactions, allowing for effective user testing and showcasing the design to clients or stakeholders. Examples include:
 
-- Interactive mockups: Clickable representations of the interface that incorporate visual design and interactions, often created using prototyping tools such as Sketch, Adobe XD, or Figma.
-- HTML prototypes: Interactive prototypes built using HTML, CSS, and JavaScript, which can be a good option if the designers have coding skills and want a more accurate representation of the final product.
+- **Interactive Mockups**: Clickable representations of the interface that incorporate visual design and interactions, often created using prototyping tools such as Sketch, Adobe XD, or Figma.
+- **HTML Prototypes**: Interactive prototypes built using HTML, CSS, and JavaScript, which can be a good option if the designers have coding skills and want a more accurate representation of the final product.
 
 ## Choosing the Right Prototyping Method
 
@@ -24,8 +24,8 @@ There is no one-size-fits-all approach to prototyping. The best method depends o
 
 Prototyping is essential in UX design because it:
 
-- Saves time and money: By identifying and addressing usability or design issues early in the process, you can avoid costly redesigns or development changes.
-- Facilitates collaboration: Prototypes enable designers, stakeholders, and developers to discuss the design and give meaningful feedback.
-- Enhances user experience: Iterative testing and refining the design based on feedback ensures the final product meets user needs and expectations.
+- **Saves Time and Money**: By identifying and addressing usability or design issues early in the process, you can avoid costly redesigns or development changes.
+- **Facilitates Collaboration**: Prototypes enable designers, stakeholders, and developers to discuss the design and give meaningful feedback.
+- **Enhances User Experience**: Iterative testing and refining the design based on feedback ensures the final product meets user needs and expectations.
 
 In conclusion, prototyping is a crucial step in the UX design process that helps designers test ideas, gather feedback, and iterate on the design, ultimately leading to a more user-centered final product.
