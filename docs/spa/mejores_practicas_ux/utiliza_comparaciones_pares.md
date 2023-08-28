@@ -4,18 +4,18 @@ Las comparaciones entre pares implican utilizar retroalimentación o mostrar có
 
 ## ¿Por qué usar Comparaciones entre Pares?
 
-- **Prueba Social:** Las comparaciones entre pares brindan una prueba social del valor de tu producto, lo que puede tranquilizar a los usuarios y aumentar su disposición para adoptarlo.
-- **Competencia Saludable:** Las comparaciones con pares pueden motivar a los usuarios a mejorar su rendimiento y utilizar completamente tu producto para mantenerse a la vanguardia.
-- **Relevancia Personal:** Las comparaciones entre pares son más identificables que las estadísticas generales o los testimonios, ya que los usuarios ven los resultados de otros que están en situaciones similares.
-- **Orientación:** Al observar las acciones de sus pares, los usuarios pueden aprender las mejores prácticas y evitar errores comunes, mejorando su experiencia general con tu producto.
+- **Prueba Social**: Las comparaciones entre pares brindan una prueba social del valor de tu producto, lo que puede tranquilizar a los usuarios y aumentar su disposición para adoptarlo.
+- **Competencia Saludable**: Las comparaciones con pares pueden motivar a los usuarios a mejorar su rendimiento y utilizar completamente tu producto para mantenerse a la vanguardia.
+- **Relevancia Personal**: Las comparaciones entre pares son más identificables que las estadísticas generales o los testimonios, ya que los usuarios ven los resultados de otros que están en situaciones similares.
+- **Orientación**: Al observar las acciones de sus pares, los usuarios pueden aprender las mejores prácticas y evitar errores comunes, mejorando su experiencia general con tu producto.
 
 ## Cómo Implementar Comparaciones entre Pares
 
-- **Elige Pares Relevantes:** Para que las comparaciones sean significativas y motivadoras, concéntrate en usuarios que comparten atributos clave, objetivos o contextos con el usuario objetivo. Adapta las comparaciones en consecuencia.
-- **Destaca Métricas Clave:** Muestra el progreso, uso o éxito individual con el producto en comparación con sus pares. Asegúrate de que estas métricas sean relevantes y comprensibles para tus usuarios.
-- **Proporciona Contexto:** Asegúrate de que los usuarios puedan entender por qué se les compara con un grupo de pares específico, minimizando posibles resentimientos o desinterés.
-- **Mantén el Anonimato:** Para respetar la privacidad del usuario y evitar experiencias negativas, asegúrate de que la información personal no se comparta sin consentimiento.
-- **Permite la Opción de Exclusión:** Los usuarios siempre deben tener la opción de no participar en comparaciones entre pares si lo encuentran intrusivo o poco útil.
+- **Elige Pares Relevantes**: Para que las comparaciones sean significativas y motivadoras, concéntrate en usuarios que comparten atributos clave, objetivos o contextos con el usuario objetivo. Adapta las comparaciones en consecuencia.
+- **Destaca Métricas Clave**: Muestra el progreso, uso o éxito individual con el producto en comparación con sus pares. Asegúrate de que estas métricas sean relevantes y comprensibles para tus usuarios.
+- **Proporciona Contexto**: Asegúrate de que los usuarios puedan entender por qué se les compara con un grupo de pares específico, minimizando posibles resentimientos o desinterés.
+- **Mantén el Anonimato**: Para respetar la privacidad del usuario y evitar experiencias negativas, asegúrate de que la información personal no se comparta sin consentimiento.
+- **Permite la Opción de Exclusión**: Los usuarios siempre deben tener la opción de no participar en comparaciones entre pares si lo encuentran intrusivo o poco útil.
 
 ## Precauciones
 

@@ -6,9 +6,9 @@ Utilizar la competencia en el diseño de experiencia de usuario (UX) puede lleva
 
 Es crucial determinar qué elementos competitivos son adecuados para tu audiencia objetivo y la naturaleza de tu producto. Por ejemplo:
 
-- **Tablas de Clasificación (Leaderboards):** Mostrar las clasificaciones de los mejores usuarios en función de puntos o logros, alentando a los usuarios a ascender en las clasificaciones.
-- **Insignias y Premios:** Reconocer los logros de los usuarios otorgando trofeos virtuales o insignias por completar tareas específicas.
-- **Desafíos:** Establecer eventos periódicos o de una sola vez donde los usuarios deben completar una tarea en un cierto período de tiempo para ganar premios.
+- **Tablas de Clasificación (Leaderboards)**: Mostrar las clasificaciones de los mejores usuarios en función de puntos o logros, alentando a los usuarios a ascender en las clasificaciones.
+- **Insignias y Premios**: Reconocer los logros de los usuarios otorgando trofeos virtuales o insignias por completar tareas específicas.
+- **Desafíos**: Establecer eventos periódicos o de una sola vez donde los usuarios deben completar una tarea en un cierto período de tiempo para ganar premios.
 
 ## Equilibrar la Competencia con la Colaboración
 

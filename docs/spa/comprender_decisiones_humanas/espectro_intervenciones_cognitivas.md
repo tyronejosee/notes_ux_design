@@ -6,7 +6,7 @@ El *Espectro de Intervenciones Cognitivas* proporciona una estructura para guiar
 
 Las intervenciones basadas en guía están diseñadas para ayudar a los usuarios a navegar por un producto o servicio digital con un esfuerzo mínimo. Pueden dirigirse a principiantes, usuarios ocasionales o expertos en sus respectivos campos. Dichas intervenciones pueden incluir señales visuales, consejos e indicaciones claramente articuladas.
 
-**Ejemplos:**
+**Ejemplos**:
 
 - Señales visuales (por ejemplo, iconos, colores)
 - Señalización (por ejemplo, migas de pan)
@@ -16,7 +16,7 @@ Las intervenciones basadas en guía están diseñadas para ayudar a los usuarios
 
 Las intervenciones basadas en explicación proporcionan a los usuarios narrativas detalladas, descripciones generales o información de fondo que les ayuda a tomar decisiones informadas. Esto puede incluir tutoriales, artículos, videos o cualquier otro medio que explique conceptos o instrucciones complejas.
 
-**Ejemplos:**
+**Ejemplos**:
 
 - Tutoriales multimedia
 - Artículos o publicaciones de blog
@@ -26,7 +26,7 @@ Las intervenciones basadas en explicación proporcionan a los usuarios narrativa
 
 Las intervenciones basadas en exploración animan a los usuarios a comprender e interactuar con el producto investigando, haciendo preguntas o buscando soluciones por sí mismos. Esto se puede lograr proporcionando elementos interactivos, múltiples rutas y oportunidades para el descubrimiento.
 
-**Ejemplos:**
+**Ejemplos**:
 
 - Simulaciones interactivas o modelos
 - Capacidades avanzadas de búsqueda
@@ -36,7 +36,7 @@ Las intervenciones basadas en exploración animan a los usuarios a comprender e 
 
 Las intervenciones basadas en creación involucran a los usuarios ofreciéndoles herramientas y recursos para co-crear o personalizar su experiencia. Este tipo de intervención a menudo implica un nivel más extenso de aportación e implicación por parte del usuario, ya que se convierten en participantes activos en el proceso de diseño.
 
-**Ejemplos:**
+**Ejemplos**:
 
 - Interfaces de usuario personalizables
 - Permitir a los usuarios crear su contenido

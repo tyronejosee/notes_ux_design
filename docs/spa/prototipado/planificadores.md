@@ -6,20 +6,20 @@ Los planificadores son un aspecto esencial del diseño de experiencia de usuario
 
 Existen algunas características clave que definen a los planificadores en el diseño de UX:
 
-- **Orientación Clara:** Los planificadores proporcionan instrucciones y guías claras sobre los diferentes pasos involucrados, facilitando la navegación del usuario a través del proceso.
-- **Indicadores de Progreso:** Los planificadores suelen utilizar algún tipo de indicador de progreso, como una barra de progreso o una lista de verificación, para mostrar a los usuarios en qué punto del proceso se encuentran.
-- **Prevención y Manejo de Errores:** Los planificadores se esfuerzan por prevenir errores del usuario al proporcionar validación de datos, retroalimentación y pautas claras sobre lo que debe hacerse. También manejan los errores de manera efectiva, permitiendo a los usuarios recuperarse y avanzar sin frustraciones.
-- **Flexibilidad:** Los planificadores ofrecen a los usuarios la flexibilidad para completar tareas a su propio ritmo y brindan opciones para cambiar o actualizar la información en cualquier etapa del proceso.
-- **Consistencia:** Los planificadores mantienen la consistencia en el diseño y la presentación de la información, asegurando que la experiencia del usuario sea familiar y predecible en todo momento.
+- **Orientación Clara**: Los planificadores proporcionan instrucciones y guías claras sobre los diferentes pasos involucrados, facilitando la navegación del usuario a través del proceso.
+- **Indicadores de Progreso**: Los planificadores suelen utilizar algún tipo de indicador de progreso, como una barra de progreso o una lista de verificación, para mostrar a los usuarios en qué punto del proceso se encuentran.
+- **Prevención y Manejo de Errores**: Los planificadores se esfuerzan por prevenir errores del usuario al proporcionar validación de datos, retroalimentación y pautas claras sobre lo que debe hacerse. También manejan los errores de manera efectiva, permitiendo a los usuarios recuperarse y avanzar sin frustraciones.
+- **Flexibilidad**: Los planificadores ofrecen a los usuarios la flexibilidad para completar tareas a su propio ritmo y brindan opciones para cambiar o actualizar la información en cualquier etapa del proceso.
+- **Consistencia**: Los planificadores mantienen la consistencia en el diseño y la presentación de la información, asegurando que la experiencia del usuario sea familiar y predecible en todo momento.
 
 ## Tipos de Planificadores
 
 Existen varios tipos de planificadores utilizados en el diseño de UX, según las necesidades específicas del proyecto:
 
-- **Árboles de Decisión:** Estos ofrecen a los usuarios una secuencia de opciones binarias, guiándolos a través de una serie de elecciones hasta que llegan a un resultado específico.
-- **Asistentes:** Son guías paso a paso que acompañan a los usuarios en un proceso, presentando una pregunta o tarea a la vez, y avanzando solo cuando el usuario ha completado el paso anterior.
-- **Listas de Verificación de Tareas:** Estos ofrecen a los usuarios una lista de subtareas o acciones que deben completar para lograr un objetivo más amplio. Los usuarios pueden marcar las tareas a medida que las completan y ver su progreso hacia el objetivo.
-- **Conversaciones Interactivas:** Estos simulan una interacción conversacional entre el usuario y el sistema, utilizando procesamiento de lenguaje natural para guiar a los usuarios a través de tareas o procesos de toma de decisiones.
+- **Árboles de Decisión**: Estos ofrecen a los usuarios una secuencia de opciones binarias, guiándolos a través de una serie de elecciones hasta que llegan a un resultado específico.
+- **Asistentes**: Son guías paso a paso que acompañan a los usuarios en un proceso, presentando una pregunta o tarea a la vez, y avanzando solo cuando el usuario ha completado el paso anterior.
+- **Listas de Verificación de Tareas**: Estos ofrecen a los usuarios una lista de subtareas o acciones que deben completar para lograr un objetivo más amplio. Los usuarios pueden marcar las tareas a medida que las completan y ver su progreso hacia el objetivo.
+- **Conversaciones Interactivas**: Estos simulan una interacción conversacional entre el usuario y el sistema, utilizando procesamiento de lenguaje natural para guiar a los usuarios a través de tareas o procesos de toma de decisiones.
 
 ## Implementación de los Planificadores
 

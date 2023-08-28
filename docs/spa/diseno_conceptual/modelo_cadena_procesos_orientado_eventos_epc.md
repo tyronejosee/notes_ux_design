@@ -4,9 +4,9 @@ El Modelo de Cadena de Procesos Orientado a Eventos (EPC) es un método de diagr
 
 En un modelo EPC, los eventos, funciones y flujos de control son los componentes principales:
 
-- **Evento:** Representa un punto específico en el tiempo, como el inicio, el final o un cambio en un proceso.
-- **Función:** Representa una acción o tarea que debe realizarse. Las funciones normalmente se conectan a eventos y otras funciones dentro de una cadena de procesos.
-- **Flujo de Control:** Ilustra el flujo de actividades en la cadena de procesos conectando eventos y funciones con flechas, mostrando la secuencia de tareas.
+- **Evento**: Representa un punto específico en el tiempo, como el inicio, el final o un cambio en un proceso.
+- **Función**: Representa una acción o tarea que debe realizarse. Las funciones normalmente se conectan a eventos y otras funciones dentro de una cadena de procesos.
+- **Flujo de Control**: Ilustra el flujo de actividades en la cadena de procesos conectando eventos y funciones con flechas, mostrando la secuencia de tareas.
 
 Crear un modelo EPC implica los siguientes pasos:
 

@@ -6,12 +6,12 @@ Un **Mapa de Experiencia del Cliente** es una representación visual poderosa qu
 
 A continuación, se presentan algunos componentes cruciales de un mapa de experiencia personalizado efectivo:
 
-- **Persona del Usuario:** Esto incluye la demografía, los objetivos y los puntos problemáticos del usuario objetivo, lo que ayuda a comprender la perspectiva del usuario a lo largo del recorrido.
-- **Etapas:** Son los diferentes pasos o fases lógicas por las que pasa el usuario durante su interacción con el producto o servicio.
-- **Puntos de Contacto:** Son las interacciones específicas que el usuario tiene con el producto o servicio, como hacer clic en un botón, abrir una aplicación o hablar con un representante de servicio al cliente.
-- **Canales:** Se refieren a los medios o plataformas a través de los cuales se llevan a cabo las interacciones, como el sitio web, la aplicación móvil, el correo electrónico o en persona.
-- **Emociones:** El estado emocional del usuario durante cada punto de contacto, lo que puede resaltar áreas de frustración o satisfacción.
-- **Oportunidades:** Áreas donde se pueden realizar mejoras, introducir nuevas características o realizar más investigaciones para mejorar la experiencia general del usuario.
+- **Persona del Usuario**: Esto incluye la demografía, los objetivos y los puntos problemáticos del usuario objetivo, lo que ayuda a comprender la perspectiva del usuario a lo largo del recorrido.
+- **Etapas**: Son los diferentes pasos o fases lógicas por las que pasa el usuario durante su interacción con el producto o servicio.
+- **Puntos de Contacto**: Son las interacciones específicas que el usuario tiene con el producto o servicio, como hacer clic en un botón, abrir una aplicación o hablar con un representante de servicio al cliente.
+- **Canales**: Se refieren a los medios o plataformas a través de los cuales se llevan a cabo las interacciones, como el sitio web, la aplicación móvil, el correo electrónico o en persona.
+- **Emociones**: El estado emocional del usuario durante cada punto de contacto, lo que puede resaltar áreas de frustración o satisfacción.
+- **Oportunidades**: Áreas donde se pueden realizar mejoras, introducir nuevas características o realizar más investigaciones para mejorar la experiencia general del usuario.
 
 ## Beneficios de un Mapa de Experiencia del Cliente
 

@@ -10,17 +10,17 @@ Para generar asociaciones relevantes para el usuario, es esencial comprender pri
 
 Fomenta experiencias significativas para evocar emociones positivas y establecer asociaciones fuertes y resonantes. Esto se puede lograr a través de:
 
-- **Branding Consistente:** Proporciona un lenguaje visual cohesivo y continuo en toda la experiencia. Crea armonía utilizando colores uniformes, tipografía, imágenes y un sistema de diseño general.
-- **Diseño Emocional:** Crea experiencias memorables incorporando visuales, copias e interacciones impulsados por emociones. Apela a las emociones de los usuarios a través del uso de narrativas, empatía y diversas técnicas persuasivas.
-- **Diseño para el Uso en la Vida Real:** Comprende y aborda los puntos débiles del usuario ofreciendo soluciones prácticas. Diseña para el contexto de uso del usuario para que encuentren propósito en el producto.
+- **Branding Consistente**: Proporciona un lenguaje visual cohesivo y continuo en toda la experiencia. Crea armonía utilizando colores uniformes, tipografía, imágenes y un sistema de diseño general.
+- **Diseño Emocional**: Crea experiencias memorables incorporando visuales, copias e interacciones impulsados por emociones. Apela a las emociones de los usuarios a través del uso de narrativas, empatía y diversas técnicas persuasivas.
+- **Diseño para el Uso en la Vida Real**: Comprende y aborda los puntos débiles del usuario ofreciendo soluciones prácticas. Diseña para el contexto de uso del usuario para que encuentren propósito en el producto.
 
 ## Reforzar Asociaciones Positivas
 
 El refuerzo constante de asociaciones positivas es crucial durante todo el recorrido del usuario. Esto se puede lograr mediante:
 
-- **Retroalimentación Oportuna:** Asegura que el usuario reciba retroalimentación sobre el resultado de sus acciones, tanto para intentos exitosos como fallidos. Utiliza señales visuales y auditivas apropiadas para guiar a los usuarios y tranquilizarlos sobre su progreso.
-- **Sistema de Recompensas:** Anima a los usuarios mediante recompensas, que pueden ser desde mensajes de felicitación hasta mecanismos más complejos como barras de progreso o logros.
-- **Personalización:** Personaliza la experiencia del usuario para cada individuo, adaptando el contenido, visuales e interacciones según sus preferencias y comportamientos pasados.
+- **Retroalimentación Oportuna**: Asegura que el usuario reciba retroalimentación sobre el resultado de sus acciones, tanto para intentos exitosos como fallidos. Utiliza señales visuales y auditivas apropiadas para guiar a los usuarios y tranquilizarlos sobre su progreso.
+- **Sistema de Recompensas**: Anima a los usuarios mediante recompensas, que pueden ser desde mensajes de felicitación hasta mecanismos más complejos como barras de progreso o logros.
+- **Personalización**: Personaliza la experiencia del usuario para cada individuo, adaptando el contenido, visuales e interacciones según sus preferencias y comportamientos pasados.
 
 ## Beneficios
 
